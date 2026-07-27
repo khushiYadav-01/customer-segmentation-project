@@ -174,7 +174,3 @@ Two complementary approaches:
 
 ---
 
-## 👤 Author
-
-Built as an internship project to demonstrate SQL, Python, data
-visualization, business analysis, and recommendation system skills.
