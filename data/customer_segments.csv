@@ -1,0 +1,801 @@
+CustomerID,Recency,Frequency,Monetary,Cluster,Segment
+C0001,28,4,50679.86,1,Potential / At-Risk
+C0002,1,17,466879.68,0,Loyal Customers
+C0003,52,4,84075.76,1,Potential / At-Risk
+C0004,18,3,35386.62,1,Potential / At-Risk
+C0005,28,12,264667.24,0,Loyal Customers
+C0006,5,2,41873.29,1,Potential / At-Risk
+C0007,353,1,1649.96,2,Lost / Low-Value
+C0008,354,2,63103.83,2,Lost / Low-Value
+C0009,232,7,105736.7,1,Potential / At-Risk
+C0010,3,23,702928.25,0,Loyal Customers
+C0011,282,3,43134.7,2,Lost / Low-Value
+C0012,501,2,36040.85,2,Lost / Low-Value
+C0013,4,21,500899.22,0,Loyal Customers
+C0014,397,1,5791.7,2,Lost / Low-Value
+C0015,364,2,19975.809999999998,2,Lost / Low-Value
+C0016,198,7,94217.06999999999,1,Potential / At-Risk
+C0017,82,5,56207.48,1,Potential / At-Risk
+C0018,2,15,214624.59,0,Loyal Customers
+C0019,10,29,684383.88,3,Champions
+C0020,18,11,105122.37,1,Potential / At-Risk
+C0021,174,3,32284.760000000002,1,Potential / At-Risk
+C0022,9,30,737039.36,3,Champions
+C0023,18,11,278474.36,0,Loyal Customers
+C0024,89,12,208500.93,1,Potential / At-Risk
+C0025,338,5,45868.58,2,Lost / Low-Value
+C0026,310,3,35312.7,2,Lost / Low-Value
+C0027,1,13,211035.42,0,Loyal Customers
+C0028,19,13,188019.29,0,Loyal Customers
+C0029,38,3,33585.16,1,Potential / At-Risk
+C0030,78,4,120138.4,1,Potential / At-Risk
+C0031,6,24,649820.67,0,Loyal Customers
+C0032,141,5,145402.81,1,Potential / At-Risk
+C0033,2,20,471898.16,0,Loyal Customers
+C0034,6,20,412821.05,0,Loyal Customers
+C0035,59,4,97348.53,1,Potential / At-Risk
+C0036,17,8,78868.73,1,Potential / At-Risk
+C0037,243,3,25843.22,1,Potential / At-Risk
+C0038,28,15,399370.5,0,Loyal Customers
+C0039,98,5,50588.83,1,Potential / At-Risk
+C0040,68,4,111427.32,1,Potential / At-Risk
+C0041,8,39,970293.71,3,Champions
+C0042,22,3,50217.96,1,Potential / At-Risk
+C0043,1,25,479585.06,0,Loyal Customers
+C0044,359,3,21093.55,2,Lost / Low-Value
+C0045,2,17,305619.71,0,Loyal Customers
+C0046,17,14,168487.91999999998,0,Loyal Customers
+C0047,1,19,437285.76,0,Loyal Customers
+C0048,32,3,17090.58,1,Potential / At-Risk
+C0049,2,8,103525.75,1,Potential / At-Risk
+C0050,168,8,78461.64,1,Potential / At-Risk
+C0051,1,42,1359880.0,3,Champions
+C0052,152,3,49655.6,1,Potential / At-Risk
+C0053,6,19,549047.53,0,Loyal Customers
+C0054,332,1,6305.37,2,Lost / Low-Value
+C0055,5,17,359010.23,0,Loyal Customers
+C0056,6,20,530776.99,0,Loyal Customers
+C0057,2,38,1059769.82,3,Champions
+C0058,126,4,98834.02,1,Potential / At-Risk
+C0059,12,7,117274.44,1,Potential / At-Risk
+C0060,7,42,1260854.8,3,Champions
+C0061,6,4,57650.39,1,Potential / At-Risk
+C0062,63,7,47284.61,1,Potential / At-Risk
+C0063,65,8,48746.53,1,Potential / At-Risk
+C0064,8,9,177409.37,1,Potential / At-Risk
+C0065,41,10,280081.62,0,Loyal Customers
+C0066,52,5,36858.32,1,Potential / At-Risk
+C0067,1,16,417387.17,0,Loyal Customers
+C0068,10,15,232613.51,0,Loyal Customers
+C0069,120,1,20902.329999999998,1,Potential / At-Risk
+C0070,232,2,12410.99,1,Potential / At-Risk
+C0071,46,9,103734.85,1,Potential / At-Risk
+C0072,26,9,157006.33,1,Potential / At-Risk
+C0073,22,4,56774.1,1,Potential / At-Risk
+C0074,28,9,189558.76,1,Potential / At-Risk
+C0075,8,35,867640.17,3,Champions
+C0076,1,21,435749.06,0,Loyal Customers
+C0077,28,4,32454.83,1,Potential / At-Risk
+C0078,50,3,23153.32,1,Potential / At-Risk
+C0079,7,37,920682.15,3,Champions
+C0080,7,23,530725.9,0,Loyal Customers
+C0081,1,25,648581.34,0,Loyal Customers
+C0082,135,1,6366.43,1,Potential / At-Risk
+C0083,5,40,1304660.13,3,Champions
+C0084,2,25,736065.9,3,Champions
+C0085,367,2,8943.81,2,Lost / Low-Value
+C0086,9,19,680569.12,0,Loyal Customers
+C0087,7,1,6911.24,1,Potential / At-Risk
+C0088,1,24,604549.3,0,Loyal Customers
+C0089,5,17,456711.5,0,Loyal Customers
+C0090,15,22,389155.5,0,Loyal Customers
+C0091,2,3,70645.58,1,Potential / At-Risk
+C0092,575,1,9269.24,2,Lost / Low-Value
+C0093,464,2,28700.1,2,Lost / Low-Value
+C0094,22,10,156629.35,1,Potential / At-Risk
+C0095,210,1,9355.1,1,Potential / At-Risk
+C0096,13,24,520271.33,0,Loyal Customers
+C0097,15,8,97126.75,1,Potential / At-Risk
+C0098,406,2,28069.77,2,Lost / Low-Value
+C0099,9,31,939034.18,3,Champions
+C0100,23,18,272915.35,0,Loyal Customers
+C0101,15,23,367021.01,0,Loyal Customers
+C0102,1,41,1095516.12,3,Champions
+C0103,9,17,516887.98,0,Loyal Customers
+C0104,142,6,153970.8,1,Potential / At-Risk
+C0105,17,11,185033.22,1,Potential / At-Risk
+C0106,492,2,22649.19,2,Lost / Low-Value
+C0107,418,1,243.49,2,Lost / Low-Value
+C0108,13,10,199162.72,1,Potential / At-Risk
+C0109,44,10,216628.46,1,Potential / At-Risk
+C0110,1,8,109611.52,1,Potential / At-Risk
+C0111,15,8,81791.2,1,Potential / At-Risk
+C0112,59,9,137837.33,1,Potential / At-Risk
+C0113,12,3,22219.22,1,Potential / At-Risk
+C0114,18,11,161051.57,1,Potential / At-Risk
+C0115,18,7,120916.85,1,Potential / At-Risk
+C0116,6,12,126175.57,1,Potential / At-Risk
+C0117,18,11,242242.52,0,Loyal Customers
+C0118,477,2,7184.59,2,Lost / Low-Value
+C0119,30,2,6101.76,1,Potential / At-Risk
+C0120,14,24,519775.21,0,Loyal Customers
+C0121,208,2,25624.83,1,Potential / At-Risk
+C0122,37,8,132395.04,1,Potential / At-Risk
+C0123,145,3,64320.79,1,Potential / At-Risk
+C0124,71,4,49986.44,1,Potential / At-Risk
+C0125,10,14,338747.58,0,Loyal Customers
+C0126,10,44,1234752.09,3,Champions
+C0127,30,8,140778.26,1,Potential / At-Risk
+C0128,8,5,151783.34,1,Potential / At-Risk
+C0129,21,3,37212.38,1,Potential / At-Risk
+C0130,54,9,163314.94999999998,1,Potential / At-Risk
+C0131,2,19,486660.94,0,Loyal Customers
+C0132,128,1,7910.56,1,Potential / At-Risk
+C0133,32,2,15576.390000000001,1,Potential / At-Risk
+C0134,12,7,108684.56999999999,1,Potential / At-Risk
+C0135,22,21,609456.7,0,Loyal Customers
+C0136,5,8,81708.23,1,Potential / At-Risk
+C0137,17,27,697757.15,3,Champions
+C0138,543,1,9252.83,2,Lost / Low-Value
+C0139,8,15,331188.43,0,Loyal Customers
+C0140,148,7,102524.09999999999,1,Potential / At-Risk
+C0141,16,9,188544.13,1,Potential / At-Risk
+C0142,252,4,47735.59,2,Lost / Low-Value
+C0143,25,2,59578.81,1,Potential / At-Risk
+C0144,559,2,21504.64,2,Lost / Low-Value
+C0145,4,22,468167.83,0,Loyal Customers
+C0146,4,25,616485.23,0,Loyal Customers
+C0147,7,22,524954.42,0,Loyal Customers
+C0148,51,3,36618.11,1,Potential / At-Risk
+C0149,275,3,39326.28,2,Lost / Low-Value
+C0150,13,5,115968.84,1,Potential / At-Risk
+C0151,209,2,18509.83,1,Potential / At-Risk
+C0152,4,4,45900.33,1,Potential / At-Risk
+C0153,9,23,451242.96,0,Loyal Customers
+C0154,469,1,8533.26,2,Lost / Low-Value
+C0155,11,14,258000.66999999998,0,Loyal Customers
+C0156,10,14,298549.07,0,Loyal Customers
+C0157,157,4,124477.13,1,Potential / At-Risk
+C0158,2,36,1077255.22,3,Champions
+C0159,8,20,603660.67,0,Loyal Customers
+C0160,9,3,30021.3,1,Potential / At-Risk
+C0161,21,16,284643.12,0,Loyal Customers
+C0162,51,4,47379.34,1,Potential / At-Risk
+C0163,7,16,339073.82,0,Loyal Customers
+C0164,8,14,292528.61,0,Loyal Customers
+C0165,3,14,246264.99,0,Loyal Customers
+C0166,49,15,217078.22,0,Loyal Customers
+C0167,168,2,33000.51,1,Potential / At-Risk
+C0168,1,9,139068.92,1,Potential / At-Risk
+C0169,99,7,175472.39,1,Potential / At-Risk
+C0170,141,4,71834.48,1,Potential / At-Risk
+C0171,113,4,39713.71,1,Potential / At-Risk
+C0172,202,2,35896.29,1,Potential / At-Risk
+C0173,8,2,31966.39,1,Potential / At-Risk
+C0174,9,19,486184.14,0,Loyal Customers
+C0175,11,42,1106919.35,3,Champions
+C0176,19,14,273722.76,0,Loyal Customers
+C0177,1,4,103522.28,1,Potential / At-Risk
+C0178,12,29,682711.78,3,Champions
+C0179,29,8,148228.33,1,Potential / At-Risk
+C0180,6,8,86861.96,1,Potential / At-Risk
+C0181,40,10,184393.6,1,Potential / At-Risk
+C0182,8,4,55689.03,1,Potential / At-Risk
+C0183,20,16,469082.5,0,Loyal Customers
+C0184,14,28,701177.82,3,Champions
+C0185,34,2,65107.090000000004,1,Potential / At-Risk
+C0186,97,6,79537.06,1,Potential / At-Risk
+C0187,30,4,86395.33,1,Potential / At-Risk
+C0188,5,13,207403.88,0,Loyal Customers
+C0189,8,21,607918.17,0,Loyal Customers
+C0190,685,1,1982.13,2,Lost / Low-Value
+C0191,2,4,22761.03,1,Potential / At-Risk
+C0192,64,1,45412.92,1,Potential / At-Risk
+C0193,55,13,216255.97,0,Loyal Customers
+C0194,21,4,41494.39,1,Potential / At-Risk
+C0195,14,15,229860.08000000002,0,Loyal Customers
+C0196,20,25,412305.07,0,Loyal Customers
+C0197,568,1,10502.880000000001,2,Lost / Low-Value
+C0198,5,24,474200.66,0,Loyal Customers
+C0199,157,1,11291.18,1,Potential / At-Risk
+C0200,46,11,134165.72,1,Potential / At-Risk
+C0201,11,19,203686.53,0,Loyal Customers
+C0202,135,8,146823.18,1,Potential / At-Risk
+C0203,486,2,5696.87,2,Lost / Low-Value
+C0204,232,2,38434.6,1,Potential / At-Risk
+C0205,335,1,25952.29,2,Lost / Low-Value
+C0206,156,1,2312.05,1,Potential / At-Risk
+C0207,31,3,53694.590000000004,1,Potential / At-Risk
+C0208,278,1,18477.68,2,Lost / Low-Value
+C0209,10,20,561177.99,0,Loyal Customers
+C0210,227,4,49644.5,1,Potential / At-Risk
+C0211,7,23,689421.98,0,Loyal Customers
+C0212,479,3,32813.99,2,Lost / Low-Value
+C0213,196,3,52262.259999999995,1,Potential / At-Risk
+C0214,1,32,923307.5599999999,3,Champions
+C0215,18,2,32324.4,1,Potential / At-Risk
+C0216,354,3,34820.36,2,Lost / Low-Value
+C0217,6,25,532204.82,0,Loyal Customers
+C0218,55,8,150688.73,1,Potential / At-Risk
+C0219,239,3,17009.72,1,Potential / At-Risk
+C0220,12,27,860955.35,3,Champions
+C0221,59,3,25812.04,1,Potential / At-Risk
+C0222,22,9,138039.09,1,Potential / At-Risk
+C0223,383,3,8069.93,2,Lost / Low-Value
+C0224,512,2,12601.92,2,Lost / Low-Value
+C0225,53,1,5324.8,1,Potential / At-Risk
+C0226,61,8,104439.44,1,Potential / At-Risk
+C0227,451,2,17852.45,2,Lost / Low-Value
+C0228,434,1,22867.53,2,Lost / Low-Value
+C0229,7,14,308950.7,0,Loyal Customers
+C0230,225,2,67051.56,1,Potential / At-Risk
+C0231,11,28,859158.65,3,Champions
+C0232,19,8,110070.14,1,Potential / At-Risk
+C0233,7,25,605423.07,0,Loyal Customers
+C0234,9,24,577970.25,0,Loyal Customers
+C0235,3,40,1239793.89,3,Champions
+C0236,142,2,21798.64,1,Potential / At-Risk
+C0237,112,9,224473.45,1,Potential / At-Risk
+C0238,187,3,47590.700000000004,1,Potential / At-Risk
+C0239,17,40,1029287.35,3,Champions
+C0240,13,15,369964.93,0,Loyal Customers
+C0241,264,5,55150.18,2,Lost / Low-Value
+C0242,191,1,24598.68,1,Potential / At-Risk
+C0243,16,11,166016.02,1,Potential / At-Risk
+C0244,84,3,60011.09,1,Potential / At-Risk
+C0245,57,2,10887.09,1,Potential / At-Risk
+C0246,1,1,9866.02,1,Potential / At-Risk
+C0247,2,20,471560.43,0,Loyal Customers
+C0248,1,33,1032132.37,3,Champions
+C0249,344,1,6157.68,2,Lost / Low-Value
+C0250,8,29,1059179.23,3,Champions
+C0251,256,2,32646.07,2,Lost / Low-Value
+C0252,87,5,80734.76000000001,1,Potential / At-Risk
+C0253,487,1,17379.54,2,Lost / Low-Value
+C0254,2,4,98300.15,1,Potential / At-Risk
+C0255,201,3,17092.82,1,Potential / At-Risk
+C0256,30,9,70867.02,1,Potential / At-Risk
+C0257,132,1,4813.49,1,Potential / At-Risk
+C0258,21,12,171363.52000000002,1,Potential / At-Risk
+C0259,55,7,121045.94,1,Potential / At-Risk
+C0260,4,4,42158.26,1,Potential / At-Risk
+C0261,401,1,881.26,2,Lost / Low-Value
+C0262,338,1,23083.77,2,Lost / Low-Value
+C0263,23,1,970.26,1,Potential / At-Risk
+C0264,17,13,236703.18,0,Loyal Customers
+C0265,15,14,145911.2,0,Loyal Customers
+C0266,10,4,53433.18,1,Potential / At-Risk
+C0267,18,23,400311.7,0,Loyal Customers
+C0268,1,16,286815.44,0,Loyal Customers
+C0269,35,15,314413.41,0,Loyal Customers
+C0270,7,10,181916.89,1,Potential / At-Risk
+C0271,17,8,115031.04000000001,1,Potential / At-Risk
+C0272,31,17,269284.29,0,Loyal Customers
+C0273,7,29,780144.15,3,Champions
+C0274,4,30,826981.69,3,Champions
+C0275,510,1,1873.38,2,Lost / Low-Value
+C0276,18,14,218891.91999999998,0,Loyal Customers
+C0277,43,8,181370.29,1,Potential / At-Risk
+C0278,59,1,9539.3,1,Potential / At-Risk
+C0279,10,16,351364.24,0,Loyal Customers
+C0280,176,3,46478.65,1,Potential / At-Risk
+C0281,47,3,71413.92,1,Potential / At-Risk
+C0282,5,18,466630.98,0,Loyal Customers
+C0283,1,15,212496.8,0,Loyal Customers
+C0284,502,1,2833.11,2,Lost / Low-Value
+C0285,132,3,50633.15,1,Potential / At-Risk
+C0286,10,7,122563.61,1,Potential / At-Risk
+C0287,25,1,1853.24,1,Potential / At-Risk
+C0288,20,16,324329.95,0,Loyal Customers
+C0289,147,3,34541.21,1,Potential / At-Risk
+C0290,6,20,598481.18,0,Loyal Customers
+C0291,472,2,24642.870000000003,2,Lost / Low-Value
+C0292,61,4,55545.8,1,Potential / At-Risk
+C0293,152,3,16022.83,1,Potential / At-Risk
+C0294,12,8,137957.37,1,Potential / At-Risk
+C0295,8,17,378630.07,0,Loyal Customers
+C0296,11,17,451080.19,0,Loyal Customers
+C0297,1,17,411066.09,0,Loyal Customers
+C0298,8,23,501780.77999999997,0,Loyal Customers
+C0299,59,2,56376.62,1,Potential / At-Risk
+C0300,77,14,373596.13,0,Loyal Customers
+C0301,1,44,1193693.04,3,Champions
+C0302,171,3,42975.58,1,Potential / At-Risk
+C0303,519,1,4354.52,2,Lost / Low-Value
+C0304,144,2,30614.899999999998,1,Potential / At-Risk
+C0305,432,1,18432.27,2,Lost / Low-Value
+C0306,4,18,469868.45,0,Loyal Customers
+C0307,20,13,174538.48,0,Loyal Customers
+C0308,16,3,48350.26,1,Potential / At-Risk
+C0309,400,1,3661.4,2,Lost / Low-Value
+C0310,21,22,452808.21,0,Loyal Customers
+C0311,129,2,42236.96,1,Potential / At-Risk
+C0312,4,23,409566.49,0,Loyal Customers
+C0313,27,24,619348.1,0,Loyal Customers
+C0314,86,8,94181.26000000001,1,Potential / At-Risk
+C0315,238,6,49216.02,1,Potential / At-Risk
+C0316,73,7,110105.67,1,Potential / At-Risk
+C0317,5,23,540013.11,0,Loyal Customers
+C0318,82,2,10078.64,1,Potential / At-Risk
+C0319,35,14,191248.32,0,Loyal Customers
+C0320,5,16,381930.79,0,Loyal Customers
+C0321,69,3,32709.93,1,Potential / At-Risk
+C0322,456,1,7275.75,2,Lost / Low-Value
+C0323,174,2,8595.86,1,Potential / At-Risk
+C0324,615,1,19529.8,2,Lost / Low-Value
+C0325,53,4,15205.01,1,Potential / At-Risk
+C0326,88,7,116109.18000000001,1,Potential / At-Risk
+C0327,7,17,386795.58999999997,0,Loyal Customers
+C0328,14,14,267151.72,0,Loyal Customers
+C0329,15,14,208284.32,0,Loyal Customers
+C0330,4,13,150810.44,1,Potential / At-Risk
+C0331,17,1,10760.630000000001,1,Potential / At-Risk
+C0332,228,5,73144.04,1,Potential / At-Risk
+C0333,5,20,486600.39,0,Loyal Customers
+C0334,3,25,599759.24,0,Loyal Customers
+C0335,115,2,8121.16,1,Potential / At-Risk
+C0336,11,32,807496.65,3,Champions
+C0337,631,1,36261.43,2,Lost / Low-Value
+C0338,73,8,144343.55000000002,1,Potential / At-Risk
+C0339,8,5,85545.02,1,Potential / At-Risk
+C0340,13,6,87833.98,1,Potential / At-Risk
+C0341,176,3,29489.73,1,Potential / At-Risk
+C0342,15,9,146489.77,1,Potential / At-Risk
+C0343,54,3,47963.84,1,Potential / At-Risk
+C0344,249,5,25177.36,1,Potential / At-Risk
+C0345,15,14,246557.22,0,Loyal Customers
+C0346,445,1,12840.710000000001,2,Lost / Low-Value
+C0347,152,2,21265.6,1,Potential / At-Risk
+C0348,7,1,20172.15,1,Potential / At-Risk
+C0349,231,3,69344.02,1,Potential / At-Risk
+C0350,47,2,20791.16,1,Potential / At-Risk
+C0351,115,2,33658.91,1,Potential / At-Risk
+C0352,108,3,29314.27,1,Potential / At-Risk
+C0353,114,2,39518.25,1,Potential / At-Risk
+C0354,98,3,56119.49,1,Potential / At-Risk
+C0355,11,4,65086.92,1,Potential / At-Risk
+C0356,73,4,38059.84,1,Potential / At-Risk
+C0357,5,23,485838.7,0,Loyal Customers
+C0358,500,2,30804.899999999998,2,Lost / Low-Value
+C0359,455,2,10755.460000000001,2,Lost / Low-Value
+C0360,6,37,1254753.26,3,Champions
+C0361,144,1,2064.41,1,Potential / At-Risk
+C0362,16,19,462147.08,0,Loyal Customers
+C0363,7,14,194469.77,0,Loyal Customers
+C0364,103,1,3016.32,1,Potential / At-Risk
+C0365,1,25,426466.52,0,Loyal Customers
+C0366,224,3,12551.41,1,Potential / At-Risk
+C0367,196,1,6270.3,1,Potential / At-Risk
+C0368,67,7,93820.54,1,Potential / At-Risk
+C0369,8,31,799553.5,3,Champions
+C0370,7,12,149946.08,1,Potential / At-Risk
+C0371,96,2,17815.71,1,Potential / At-Risk
+C0372,115,3,11852.51,1,Potential / At-Risk
+C0373,187,2,10837.65,1,Potential / At-Risk
+C0374,17,15,292595.64,0,Loyal Customers
+C0375,53,2,55767.24,1,Potential / At-Risk
+C0376,6,8,96982.01,1,Potential / At-Risk
+C0377,102,1,15550.48,1,Potential / At-Risk
+C0378,2,18,556130.4400000001,0,Loyal Customers
+C0379,3,1,1774.24,1,Potential / At-Risk
+C0380,32,7,74399.89,1,Potential / At-Risk
+C0381,242,1,11260.94,1,Potential / At-Risk
+C0382,14,11,117789.70999999999,1,Potential / At-Risk
+C0383,125,3,11319.51,1,Potential / At-Risk
+C0384,144,2,16454.97,1,Potential / At-Risk
+C0385,5,25,731802.33,3,Champions
+C0386,398,1,21178.38,2,Lost / Low-Value
+C0387,6,4,48760.3,1,Potential / At-Risk
+C0388,2,37,934332.44,3,Champions
+C0389,41,8,174181.46,1,Potential / At-Risk
+C0390,147,1,8847.2,1,Potential / At-Risk
+C0391,2,29,731714.91,3,Champions
+C0392,172,6,90594.78,1,Potential / At-Risk
+C0393,8,8,233181.23,1,Potential / At-Risk
+C0394,102,1,22991.04,1,Potential / At-Risk
+C0395,5,43,1096968.83,3,Champions
+C0396,44,3,27391.77,1,Potential / At-Risk
+C0397,299,3,73827.70999999999,2,Lost / Low-Value
+C0398,250,3,27220.09,2,Lost / Low-Value
+C0399,108,1,22046.56,1,Potential / At-Risk
+C0400,4,21,513516.73,0,Loyal Customers
+C0401,74,3,54987.12,1,Potential / At-Risk
+C0402,8,45,1570344.74,3,Champions
+C0403,14,32,821838.09,3,Champions
+C0404,55,14,400812.7,0,Loyal Customers
+C0405,10,8,197257.72,1,Potential / At-Risk
+C0406,23,2,5437.38,1,Potential / At-Risk
+C0407,8,3,66094.07,1,Potential / At-Risk
+C0408,30,13,275155.26,0,Loyal Customers
+C0409,5,9,119156.95999999999,1,Potential / At-Risk
+C0410,432,3,28440.16,2,Lost / Low-Value
+C0411,20,8,201574.74,1,Potential / At-Risk
+C0412,9,4,41573.6,1,Potential / At-Risk
+C0413,14,21,409924.13,0,Loyal Customers
+C0414,46,3,37180.05,1,Potential / At-Risk
+C0415,56,4,57842.86,1,Potential / At-Risk
+C0416,5,20,337640.46,0,Loyal Customers
+C0417,16,24,380429.24,0,Loyal Customers
+C0418,24,2,39280.49,1,Potential / At-Risk
+C0419,18,3,24142.489999999998,1,Potential / At-Risk
+C0420,86,8,122010.52,1,Potential / At-Risk
+C0421,229,2,10327.84,1,Potential / At-Risk
+C0422,6,20,460648.12,0,Loyal Customers
+C0423,3,15,322527.71,0,Loyal Customers
+C0424,591,1,6166.65,2,Lost / Low-Value
+C0425,3,9,161004.47,1,Potential / At-Risk
+C0426,14,4,20160.6,1,Potential / At-Risk
+C0427,39,11,204669.55,1,Potential / At-Risk
+C0428,30,12,293375.66000000003,0,Loyal Customers
+C0429,40,2,54226.9,1,Potential / At-Risk
+C0430,37,14,301029.77,0,Loyal Customers
+C0431,494,2,46967.17,2,Lost / Low-Value
+C0432,1,15,330039.82,0,Loyal Customers
+C0433,12,25,663895.3099999999,0,Loyal Customers
+C0434,6,40,1316232.31,3,Champions
+C0435,43,4,42354.51,1,Potential / At-Risk
+C0436,8,10,183306.74,1,Potential / At-Risk
+C0437,497,1,1980.0,2,Lost / Low-Value
+C0438,94,4,87993.75,1,Potential / At-Risk
+C0439,490,1,34127.15,2,Lost / Low-Value
+C0440,8,16,311841.63,0,Loyal Customers
+C0441,541,2,8734.33,2,Lost / Low-Value
+C0442,146,1,5951.92,1,Potential / At-Risk
+C0443,27,3,8857.23,1,Potential / At-Risk
+C0444,430,1,15862.1,2,Lost / Low-Value
+C0445,59,3,82932.67,1,Potential / At-Risk
+C0446,13,3,13896.34,1,Potential / At-Risk
+C0447,14,15,386274.27999999997,0,Loyal Customers
+C0448,8,39,1097850.49,3,Champions
+C0449,112,3,24829.77,1,Potential / At-Risk
+C0450,71,3,22556.68,1,Potential / At-Risk
+C0451,34,1,1399.65,1,Potential / At-Risk
+C0452,10,6,126685.22,1,Potential / At-Risk
+C0453,15,22,588031.76,0,Loyal Customers
+C0454,9,16,289320.23,0,Loyal Customers
+C0455,446,1,31597.22,2,Lost / Low-Value
+C0456,12,12,283720.73,0,Loyal Customers
+C0457,4,24,597953.23,0,Loyal Customers
+C0458,124,7,84566.37,1,Potential / At-Risk
+C0459,14,33,1095446.78,3,Champions
+C0460,79,8,134770.57,1,Potential / At-Risk
+C0461,26,12,212349.75,0,Loyal Customers
+C0462,23,2,26080.06,1,Potential / At-Risk
+C0463,7,9,121520.31,1,Potential / At-Risk
+C0464,163,6,56345.42,1,Potential / At-Risk
+C0465,2,25,755506.26,3,Champions
+C0466,1,26,694884.99,3,Champions
+C0467,67,9,145258.97,1,Potential / At-Risk
+C0468,131,5,68983.71,1,Potential / At-Risk
+C0469,30,4,82420.70999999999,1,Potential / At-Risk
+C0470,40,15,290405.52,0,Loyal Customers
+C0471,19,2,69663.98,1,Potential / At-Risk
+C0472,394,3,48972.69,2,Lost / Low-Value
+C0473,138,1,715.78,1,Potential / At-Risk
+C0474,1,29,778955.47,3,Champions
+C0475,28,5,81434.27,1,Potential / At-Risk
+C0476,4,15,425107.1,0,Loyal Customers
+C0477,3,17,339616.7,0,Loyal Customers
+C0478,269,1,3082.9,2,Lost / Low-Value
+C0479,11,19,611398.1,0,Loyal Customers
+C0480,34,5,48650.54,1,Potential / At-Risk
+C0481,8,4,45444.5,1,Potential / At-Risk
+C0482,10,3,61944.13,1,Potential / At-Risk
+C0483,229,8,103150.83,1,Potential / At-Risk
+C0484,2,35,841819.59,3,Champions
+C0485,7,13,215241.89,0,Loyal Customers
+C0486,71,7,134178.36000000002,1,Potential / At-Risk
+C0487,25,21,379743.53,0,Loyal Customers
+C0488,9,12,207949.54,0,Loyal Customers
+C0489,7,36,1138745.68,3,Champions
+C0490,1,36,1005348.85,3,Champions
+C0491,4,10,238427.96,1,Potential / At-Risk
+C0492,17,25,612804.57,0,Loyal Customers
+C0493,133,7,57982.09,1,Potential / At-Risk
+C0494,23,3,55619.85,1,Potential / At-Risk
+C0495,311,2,8292.45,2,Lost / Low-Value
+C0496,6,20,336881.76,0,Loyal Customers
+C0497,30,16,413316.25,0,Loyal Customers
+C0498,23,24,706101.02,0,Loyal Customers
+C0499,8,1,10426.44,1,Potential / At-Risk
+C0500,11,4,52342.23,1,Potential / At-Risk
+C0501,3,44,1082312.59,3,Champions
+C0502,256,3,16603.5,2,Lost / Low-Value
+C0503,3,36,1049150.29,3,Champions
+C0504,30,7,69313.76000000001,1,Potential / At-Risk
+C0505,122,3,25759.989999999998,1,Potential / At-Risk
+C0506,190,2,23741.95,1,Potential / At-Risk
+C0507,4,4,49394.33,1,Potential / At-Risk
+C0508,399,1,22530.29,2,Lost / Low-Value
+C0509,34,11,267327.36,0,Loyal Customers
+C0510,198,2,11759.18,1,Potential / At-Risk
+C0511,1,22,650318.45,0,Loyal Customers
+C0512,266,2,14537.9,2,Lost / Low-Value
+C0513,27,7,107022.76,1,Potential / At-Risk
+C0514,534,1,23887.13,2,Lost / Low-Value
+C0515,38,7,77460.9,1,Potential / At-Risk
+C0516,104,2,37427.909999999996,1,Potential / At-Risk
+C0517,215,6,77963.66,1,Potential / At-Risk
+C0518,90,3,17711.02,1,Potential / At-Risk
+C0519,2,23,573916.68,0,Loyal Customers
+C0520,3,30,724846.92,3,Champions
+C0521,18,22,411178.69,0,Loyal Customers
+C0522,4,21,614635.97,0,Loyal Customers
+C0523,97,2,53648.89,1,Potential / At-Risk
+C0524,8,17,307996.89,0,Loyal Customers
+C0525,449,3,37865.61,2,Lost / Low-Value
+C0526,1,12,165142.82,1,Potential / At-Risk
+C0527,13,18,327088.65,0,Loyal Customers
+C0528,4,4,45545.119999999995,1,Potential / At-Risk
+C0529,83,2,6236.84,1,Potential / At-Risk
+C0530,132,5,70865.61,1,Potential / At-Risk
+C0531,110,7,127309.74,1,Potential / At-Risk
+C0532,137,1,11631.050000000001,1,Potential / At-Risk
+C0533,2,25,773139.6,3,Champions
+C0534,274,2,33804.76,2,Lost / Low-Value
+C0535,119,1,1570.21,1,Potential / At-Risk
+C0536,50,1,7297.85,1,Potential / At-Risk
+C0537,8,18,371256.23,0,Loyal Customers
+C0538,57,3,32619.95,1,Potential / At-Risk
+C0539,2,43,1212809.08,3,Champions
+C0540,5,33,791276.7000000001,3,Champions
+C0541,1,11,310784.88,0,Loyal Customers
+C0542,106,7,130588.05,1,Potential / At-Risk
+C0543,534,3,35389.25,2,Lost / Low-Value
+C0544,46,4,69286.70999999999,1,Potential / At-Risk
+C0545,103,1,3175.02,1,Potential / At-Risk
+C0546,51,12,238248.72,0,Loyal Customers
+C0547,12,10,211100.4,1,Potential / At-Risk
+C0548,14,12,200969.46,0,Loyal Customers
+C0549,87,2,8331.74,1,Potential / At-Risk
+C0550,2,27,772201.56,3,Champions
+C0551,511,1,16250.52,2,Lost / Low-Value
+C0552,25,6,57800.97,1,Potential / At-Risk
+C0553,24,9,141632.85,1,Potential / At-Risk
+C0554,14,3,46418.44,1,Potential / At-Risk
+C0555,25,6,94052.39,1,Potential / At-Risk
+C0556,375,2,21185.47,2,Lost / Low-Value
+C0557,170,3,25748.55,1,Potential / At-Risk
+C0558,10,11,138885.28,1,Potential / At-Risk
+C0559,5,8,194088.59,1,Potential / At-Risk
+C0560,80,6,106948.87,1,Potential / At-Risk
+C0561,1,2,41877.7,1,Potential / At-Risk
+C0562,39,25,507112.37,0,Loyal Customers
+C0563,39,3,100327.68,1,Potential / At-Risk
+C0564,7,2,33089.36,1,Potential / At-Risk
+C0565,149,2,28869.6,1,Potential / At-Risk
+C0566,14,23,483846.52,0,Loyal Customers
+C0567,39,3,37122.97,1,Potential / At-Risk
+C0568,341,2,21225.32,2,Lost / Low-Value
+C0569,11,15,417579.71,0,Loyal Customers
+C0570,17,24,493867.06,0,Loyal Customers
+C0571,354,1,10493.84,2,Lost / Low-Value
+C0572,9,22,588220.11,0,Loyal Customers
+C0573,368,3,32321.69,2,Lost / Low-Value
+C0574,193,6,30206.39,1,Potential / At-Risk
+C0575,4,18,392579.76,0,Loyal Customers
+C0576,31,3,42695.18,1,Potential / At-Risk
+C0577,92,9,194511.43,1,Potential / At-Risk
+C0578,68,7,98677.47,1,Potential / At-Risk
+C0579,4,12,246924.36,0,Loyal Customers
+C0580,68,4,64437.55,1,Potential / At-Risk
+C0581,5,23,720407.81,0,Loyal Customers
+C0582,90,13,282349.0,0,Loyal Customers
+C0583,533,1,35724.9,2,Lost / Low-Value
+C0584,7,9,153847.48,1,Potential / At-Risk
+C0585,41,1,9881.4,1,Potential / At-Risk
+C0586,34,11,299121.2,0,Loyal Customers
+C0587,94,2,29477.38,1,Potential / At-Risk
+C0588,1,21,538323.12,0,Loyal Customers
+C0589,554,1,2918.79,2,Lost / Low-Value
+C0590,178,4,79766.16,1,Potential / At-Risk
+C0591,1,22,400744.45,0,Loyal Customers
+C0592,6,35,949174.16,3,Champions
+C0593,7,16,351778.44,0,Loyal Customers
+C0594,59,7,84647.9,1,Potential / At-Risk
+C0595,7,13,267108.46,0,Loyal Customers
+C0596,462,3,23208.82,2,Lost / Low-Value
+C0597,23,11,256319.03,0,Loyal Customers
+C0598,8,18,401155.99,0,Loyal Customers
+C0599,31,1,12262.04,1,Potential / At-Risk
+C0600,33,4,24511.420000000002,1,Potential / At-Risk
+C0601,2,18,547539.92,0,Loyal Customers
+C0602,6,15,405989.08,0,Loyal Customers
+C0603,1,26,969211.53,3,Champions
+C0604,55,3,42329.62,1,Potential / At-Risk
+C0605,28,3,84467.65,1,Potential / At-Risk
+C0606,250,5,46555.86,1,Potential / At-Risk
+C0607,451,1,17485.68,2,Lost / Low-Value
+C0608,375,2,18136.16,2,Lost / Low-Value
+C0609,237,6,121597.73,1,Potential / At-Risk
+C0610,187,1,10389.2,1,Potential / At-Risk
+C0611,2,23,562369.0599999999,0,Loyal Customers
+C0612,20,25,607656.01,0,Loyal Customers
+C0613,8,12,197916.0,0,Loyal Customers
+C0614,1,35,837855.68,3,Champions
+C0615,77,5,88913.02,1,Potential / At-Risk
+C0616,376,1,9329.05,2,Lost / Low-Value
+C0617,1,35,572163.41,3,Champions
+C0618,6,22,482547.79,0,Loyal Customers
+C0619,307,6,144628.15,2,Lost / Low-Value
+C0620,392,1,1597.44,2,Lost / Low-Value
+C0621,21,14,245140.55,0,Loyal Customers
+C0622,111,8,69796.79,1,Potential / At-Risk
+C0623,3,45,1491583.84,3,Champions
+C0624,16,17,286748.88,0,Loyal Customers
+C0625,577,1,16724.28,2,Lost / Low-Value
+C0626,476,1,7943.07,2,Lost / Low-Value
+C0627,1,41,1328774.96,3,Champions
+C0628,436,2,13133.54,2,Lost / Low-Value
+C0629,9,2,17590.55,1,Potential / At-Risk
+C0630,350,2,26494.78,2,Lost / Low-Value
+C0631,87,5,48559.69,1,Potential / At-Risk
+C0632,142,4,72443.01,1,Potential / At-Risk
+C0633,95,4,70441.92,1,Potential / At-Risk
+C0634,9,4,69993.06999999999,1,Potential / At-Risk
+C0635,9,16,417031.07,0,Loyal Customers
+C0636,1,40,1139988.45,3,Champions
+C0637,1,13,237897.77,0,Loyal Customers
+C0638,43,4,47774.380000000005,1,Potential / At-Risk
+C0639,3,23,557383.43,0,Loyal Customers
+C0640,23,2,24437.23,1,Potential / At-Risk
+C0641,485,2,13134.12,2,Lost / Low-Value
+C0642,10,25,527315.91,0,Loyal Customers
+C0643,2,4,54909.61,1,Potential / At-Risk
+C0644,46,9,141498.02,1,Potential / At-Risk
+C0645,553,1,20059.29,2,Lost / Low-Value
+C0646,19,16,425592.14,0,Loyal Customers
+C0647,105,1,1968.75,1,Potential / At-Risk
+C0648,364,1,322.35,2,Lost / Low-Value
+C0649,356,3,41853.630000000005,2,Lost / Low-Value
+C0650,9,1,19541.02,1,Potential / At-Risk
+C0651,95,4,127503.12,1,Potential / At-Risk
+C0652,390,1,6434.35,2,Lost / Low-Value
+C0653,462,1,6140.7,2,Lost / Low-Value
+C0654,41,7,180991.62,1,Potential / At-Risk
+C0655,1,27,735129.57,3,Champions
+C0656,379,3,48579.63,2,Lost / Low-Value
+C0657,32,1,12256.85,1,Potential / At-Risk
+C0658,50,3,55735.74999999999,1,Potential / At-Risk
+C0659,22,16,324389.11,0,Loyal Customers
+C0660,16,4,66414.0,1,Potential / At-Risk
+C0661,8,10,107652.92,1,Potential / At-Risk
+C0662,24,1,1344.68,1,Potential / At-Risk
+C0663,1,25,773926.92,3,Champions
+C0664,8,4,84746.1,1,Potential / At-Risk
+C0665,491,3,11866.82,2,Lost / Low-Value
+C0666,1,41,951836.88,3,Champions
+C0667,219,1,638.12,1,Potential / At-Risk
+C0668,57,12,213446.05,1,Potential / At-Risk
+C0669,581,1,16775.08,2,Lost / Low-Value
+C0670,9,4,49927.69,1,Potential / At-Risk
+C0671,22,4,69385.28,1,Potential / At-Risk
+C0672,41,2,6619.49,1,Potential / At-Risk
+C0673,402,1,32997.85,2,Lost / Low-Value
+C0674,23,14,365076.15,0,Loyal Customers
+C0675,65,9,134044.68,1,Potential / At-Risk
+C0676,229,1,25335.72,1,Potential / At-Risk
+C0677,612,2,12831.58,2,Lost / Low-Value
+C0678,13,4,103537.49,1,Potential / At-Risk
+C0679,29,2,16623.41,1,Potential / At-Risk
+C0680,9,15,265508.26,0,Loyal Customers
+C0681,33,3,9209.35,1,Potential / At-Risk
+C0682,1,25,751724.2,3,Champions
+C0683,55,4,129300.41,1,Potential / At-Risk
+C0684,8,45,1252244.36,3,Champions
+C0685,8,15,247459.05,0,Loyal Customers
+C0686,82,8,154969.96,1,Potential / At-Risk
+C0687,47,13,255745.62,0,Loyal Customers
+C0688,26,4,49473.01,1,Potential / At-Risk
+C0689,1,10,153207.51,1,Potential / At-Risk
+C0690,25,12,189023.12,1,Potential / At-Risk
+C0691,47,24,404303.73,0,Loyal Customers
+C0692,49,15,272117.07,0,Loyal Customers
+C0693,2,21,388312.13,0,Loyal Customers
+C0694,13,45,985801.55,3,Champions
+C0695,80,3,29180.45,1,Potential / At-Risk
+C0696,439,1,27138.32,2,Lost / Low-Value
+C0697,2,4,68929.45999999999,1,Potential / At-Risk
+C0698,80,4,75818.02,1,Potential / At-Risk
+C0699,53,13,200359.43,0,Loyal Customers
+C0700,143,2,7255.400000000001,1,Potential / At-Risk
+C0701,195,8,193264.8,1,Potential / At-Risk
+C0702,56,7,163461.19,1,Potential / At-Risk
+C0703,3,36,1033429.23,3,Champions
+C0704,7,15,301269.12,0,Loyal Customers
+C0705,45,12,184294.94,1,Potential / At-Risk
+C0706,54,11,189407.31,1,Potential / At-Risk
+C0707,73,4,37753.89,1,Potential / At-Risk
+C0708,90,5,67029.61,1,Potential / At-Risk
+C0709,16,4,26788.4,1,Potential / At-Risk
+C0710,95,2,6284.21,1,Potential / At-Risk
+C0711,356,1,7629.11,2,Lost / Low-Value
+C0712,11,3,31971.59,1,Potential / At-Risk
+C0713,225,1,5269.27,1,Potential / At-Risk
+C0714,1,29,818604.93,3,Champions
+C0715,41,18,473996.48,0,Loyal Customers
+C0716,3,38,859786.76,3,Champions
+C0717,122,1,13457.88,1,Potential / At-Risk
+C0718,218,2,45427.43,1,Potential / At-Risk
+C0719,7,22,513358.38,0,Loyal Customers
+C0720,409,3,46044.09,2,Lost / Low-Value
+C0721,1,31,1085456.32,3,Champions
+C0722,83,3,50854.950000000004,1,Potential / At-Risk
+C0723,38,8,125130.95,1,Potential / At-Risk
+C0724,4,24,624482.88,0,Loyal Customers
+C0725,30,8,86215.88,1,Potential / At-Risk
+C0726,18,8,144266.49,1,Potential / At-Risk
+C0727,32,8,116314.41,1,Potential / At-Risk
+C0728,10,11,170887.44,1,Potential / At-Risk
+C0729,259,2,37129.5,2,Lost / Low-Value
+C0730,234,6,122189.72,1,Potential / At-Risk
+C0731,4,9,158396.56,1,Potential / At-Risk
+C0732,6,2,38369.16,1,Potential / At-Risk
+C0733,94,4,49635.01,1,Potential / At-Risk
+C0734,17,9,151344.65,1,Potential / At-Risk
+C0735,41,13,242302.04,0,Loyal Customers
+C0736,5,25,552689.0,0,Loyal Customers
+C0737,11,21,571102.44,0,Loyal Customers
+C0738,30,3,37463.340000000004,1,Potential / At-Risk
+C0739,1,18,285033.1,0,Loyal Customers
+C0740,89,7,143361.92,1,Potential / At-Risk
+C0741,16,4,40805.2,1,Potential / At-Risk
+C0742,5,20,374867.63,0,Loyal Customers
+C0743,25,8,62036.67,1,Potential / At-Risk
+C0744,16,15,275748.16,0,Loyal Customers
+C0745,511,1,4733.72,2,Lost / Low-Value
+C0746,93,5,156529.13,1,Potential / At-Risk
+C0747,518,1,1972.11,2,Lost / Low-Value
+C0748,352,4,23691.18,2,Lost / Low-Value
+C0749,3,33,807059.71,3,Champions
+C0750,38,1,27340.43,1,Potential / At-Risk
+C0751,396,1,24281.170000000002,2,Lost / Low-Value
+C0752,90,4,25842.82,1,Potential / At-Risk
+C0753,537,1,15642.14,2,Lost / Low-Value
+C0754,320,1,2885.0,2,Lost / Low-Value
+C0755,8,25,490035.8,0,Loyal Customers
+C0756,34,17,458652.19,0,Loyal Customers
+C0757,49,3,44754.55,1,Potential / At-Risk
+C0758,75,8,205998.93,1,Potential / At-Risk
+C0759,276,3,55129.18,2,Lost / Low-Value
+C0760,56,2,50554.729999999996,1,Potential / At-Risk
+C0761,29,8,216317.7,1,Potential / At-Risk
+C0762,15,19,318640.75,0,Loyal Customers
+C0763,3,3,86844.33,1,Potential / At-Risk
+C0764,12,8,88349.35,1,Potential / At-Risk
+C0765,554,3,27354.61,2,Lost / Low-Value
+C0766,4,11,129572.84999999999,1,Potential / At-Risk
+C0767,115,1,10146.970000000001,1,Potential / At-Risk
+C0768,4,20,335376.10000000003,0,Loyal Customers
+C0769,92,3,12576.689999999999,1,Potential / At-Risk
+C0770,8,7,114799.5,1,Potential / At-Risk
+C0771,44,5,46888.16,1,Potential / At-Risk
+C0772,6,21,479331.29,0,Loyal Customers
+C0773,101,2,61214.33,1,Potential / At-Risk
+C0774,395,1,4349.1900000000005,2,Lost / Low-Value
+C0775,6,15,303397.94,0,Loyal Customers
+C0776,2,19,554658.1,0,Loyal Customers
+C0777,4,33,915351.24,3,Champions
+C0778,107,3,18102.670000000002,1,Potential / At-Risk
+C0779,7,2,15928.189999999999,1,Potential / At-Risk
+C0780,84,8,116481.71,1,Potential / At-Risk
+C0781,9,23,572362.27,0,Loyal Customers
+C0782,95,8,176203.45,1,Potential / At-Risk
+C0783,37,6,83032.83,1,Potential / At-Risk
+C0784,98,5,51517.8,1,Potential / At-Risk
+C0785,144,2,38074.56,1,Potential / At-Risk
+C0786,8,15,245977.03,0,Loyal Customers
+C0787,10,3,42042.95,1,Potential / At-Risk
+C0788,3,12,236307.01,0,Loyal Customers
+C0789,6,14,297075.3,0,Loyal Customers
+C0790,65,3,32726.309999999998,1,Potential / At-Risk
+C0791,7,1,6621.39,1,Potential / At-Risk
+C0792,183,2,16075.0,1,Potential / At-Risk
+C0793,2,23,554028.99,0,Loyal Customers
+C0794,9,17,463171.26,0,Loyal Customers
+C0795,501,1,1669.31,2,Lost / Low-Value
+C0796,164,5,56490.32,1,Potential / At-Risk
+C0797,28,14,245085.17,0,Loyal Customers
+C0798,3,28,841471.85,3,Champions
+C0799,16,16,296184.66,0,Loyal Customers
+C0800,279,1,6800.02,2,Lost / Low-Value

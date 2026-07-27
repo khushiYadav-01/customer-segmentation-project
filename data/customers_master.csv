@@ -1,0 +1,801 @@
+CustomerID,CustomerName,Country,SignupDate,Tier
+C0001,William Patel,United Kingdom,2023-02-16,new
+C0002,Aarav Williams,Singapore,2023-12-06,loyal
+C0003,Emma Brown,France,2023-04-19,at_risk
+C0004,Riya Patel,United States,2023-11-25,new
+C0005,Charlotte Nair,India,2023-11-24,potential
+C0006,Aditya Iyer,India,2023-11-02,new
+C0007,Ava Verma,India,2024-05-12,lost
+C0008,Aarav Khan,Canada,2023-01-11,lost
+C0009,James Brown,United States,2023-01-26,at_risk
+C0010,Rohan Chopra,Germany,2024-02-07,loyal
+C0011,Aarav Nair,India,2023-06-20,lost
+C0012,James Malhotra,Singapore,2023-05-05,lost
+C0013,Lucas Nair,Australia,2023-03-06,loyal
+C0014,Ava Brown,India,2024-02-07,lost
+C0015,Mason Iyer,India,2023-10-17,lost
+C0016,Liam Sharma,India,2023-04-16,at_risk
+C0017,Henry Smith,United Kingdom,2023-02-05,at_risk
+C0018,Lucas Rossi,United States,2024-02-29,potential
+C0019,Noah Williams,United Kingdom,2024-01-27,champion
+C0020,Riya Johnson,India,2023-10-11,potential
+C0021,Henry Garcia,United States,2023-04-17,lost
+C0022,Isha Khan,India,2023-10-28,champion
+C0023,Ethan Patel,India,2023-04-21,potential
+C0024,Sophia Muller,United Kingdom,2024-02-21,potential
+C0025,Diya Williams,United Kingdom,2024-03-21,at_risk
+C0026,Harper Verma,Australia,2023-04-30,lost
+C0027,Amelia Kumar,India,2023-06-18,potential
+C0028,Priya Patel,United States,2024-02-01,potential
+C0029,Meera Dubois,United States,2023-03-17,new
+C0030,Aditya Nair,India,2024-02-08,at_risk
+C0031,Olivia Malhotra,United States,2024-04-06,loyal
+C0032,Diya Muller,India,2023-11-02,at_risk
+C0033,Kabir Johnson,India,2023-01-02,loyal
+C0034,Lucas Khan,Singapore,2023-05-22,loyal
+C0035,Vivaan Fischer,Singapore,2024-03-15,at_risk
+C0036,Emma Jones,Australia,2023-03-16,potential
+C0037,Aditya Brown,United Kingdom,2023-03-08,lost
+C0038,Sara Patel,India,2023-10-04,potential
+C0039,Ethan Williams,Germany,2023-05-09,at_risk
+C0040,Mason Malhotra,United Kingdom,2024-02-13,new
+C0041,Arjun Muller,India,2023-03-31,champion
+C0042,Ananya Muller,United States,2023-02-26,new
+C0043,Sophia Johnson,India,2023-12-05,loyal
+C0044,Charlotte Williams,UAE,2024-03-19,lost
+C0045,Lucas Fischer,India,2023-01-14,loyal
+C0046,William Khan,Germany,2023-03-09,potential
+C0047,Diya Malhotra,United Kingdom,2023-01-08,loyal
+C0048,Ananya Nair,United States,2023-07-03,lost
+C0049,Amelia Brown,United States,2024-02-09,at_risk
+C0050,Ananya Kumar,India,2024-02-08,at_risk
+C0051,Ethan Williams,Singapore,2023-05-02,champion
+C0052,Meera Malhotra,France,2023-10-29,new
+C0053,Lucas Nair,UAE,2023-06-15,loyal
+C0054,Emma Fischer,Canada,2023-01-09,lost
+C0055,Noah Verma,United States,2023-03-31,loyal
+C0056,Emma Verma,UAE,2023-05-16,loyal
+C0057,Harper Garcia,India,2023-01-27,champion
+C0058,Ethan Williams,India,2023-03-06,at_risk
+C0059,Aditya Johnson,India,2024-01-15,at_risk
+C0060,Meera Iyer,United Kingdom,2023-08-04,champion
+C0061,Karan Garcia,United Kingdom,2023-09-27,new
+C0062,James Malhotra,India,2023-02-28,at_risk
+C0063,Mia Dubois,Australia,2024-01-17,at_risk
+C0064,Karan Malhotra,United Kingdom,2023-02-02,potential
+C0065,Mason Gupta,India,2023-09-01,potential
+C0066,Liam Gupta,United States,2023-08-18,at_risk
+C0067,Emma Nair,India,2024-02-03,loyal
+C0068,Priya Williams,Australia,2023-07-05,loyal
+C0069,Amelia Iyer,India,2023-09-20,lost
+C0070,Ava Iyer,Netherlands,2023-10-31,lost
+C0071,Ethan Muller,France,2023-02-25,potential
+C0072,Emma Gupta,India,2023-08-20,potential
+C0073,Rohan Singh,India,2023-09-15,new
+C0074,Aditya Verma,Australia,2023-04-24,potential
+C0075,Sara Patel,Germany,2024-04-29,champion
+C0076,Riya Malhotra,France,2023-11-11,loyal
+C0077,Ananya Fischer,France,2023-01-23,new
+C0078,Ava Chopra,India,2024-01-08,new
+C0079,Aditya Dubois,United Kingdom,2024-02-06,champion
+C0080,Ethan Chopra,India,2024-04-10,loyal
+C0081,Mason Reddy,Canada,2024-03-19,loyal
+C0082,Liam Nair,United States,2023-12-04,new
+C0083,Sara Sharma,United Kingdom,2023-09-24,champion
+C0084,Charlotte Patel,India,2023-06-04,loyal
+C0085,Charlotte Nair,United Kingdom,2023-08-23,new
+C0086,Henry Williams,United Kingdom,2023-11-26,loyal
+C0087,Henry Malhotra,France,2024-05-08,new
+C0088,Noah Patel,Germany,2023-01-16,loyal
+C0089,Olivia Rossi,Canada,2023-02-01,loyal
+C0090,Ananya Kumar,United Kingdom,2023-09-03,loyal
+C0091,Aarav Williams,India,2024-03-09,new
+C0092,Rohan Smith,France,2023-07-25,lost
+C0093,Rohan Patel,France,2023-08-07,lost
+C0094,Sara Malhotra,United States,2023-12-18,potential
+C0095,Olivia Malhotra,France,2023-02-25,new
+C0096,Rohan Chopra,United States,2023-09-09,loyal
+C0097,James Gupta,United States,2023-12-31,potential
+C0098,Sophia Smith,United Kingdom,2024-04-10,lost
+C0099,Priya Reddy,India,2023-08-16,champion
+C0100,Meera Sharma,India,2023-02-07,loyal
+C0101,Diya Garcia,India,2024-04-05,loyal
+C0102,Mia Sharma,Germany,2023-02-11,champion
+C0103,Isha Muller,United Kingdom,2023-06-14,loyal
+C0104,Karan Jones,United States,2023-11-08,at_risk
+C0105,Emma Verma,UAE,2023-03-17,potential
+C0106,Emma Iyer,India,2023-02-03,lost
+C0107,Aditya Khan,United Kingdom,2023-03-06,lost
+C0108,Amelia Singh,France,2023-05-21,potential
+C0109,Arjun Khan,India,2023-11-16,potential
+C0110,Henry Nair,India,2023-11-21,potential
+C0111,Henry Gupta,India,2023-10-27,at_risk
+C0112,Riya Fischer,India,2023-10-08,potential
+C0113,Mia Nair,UAE,2023-12-31,new
+C0114,Ananya Williams,Australia,2023-06-16,potential
+C0115,Rohan Chopra,Germany,2023-07-15,at_risk
+C0116,Ava Johnson,Canada,2023-11-02,potential
+C0117,Meera Nair,Australia,2023-09-29,potential
+C0118,Henry Johnson,India,2023-05-31,lost
+C0119,Lucas Jones,Canada,2023-08-21,new
+C0120,Ethan Fischer,United States,2023-09-16,loyal
+C0121,William Muller,Australia,2023-11-06,lost
+C0122,Mason Reddy,Canada,2023-08-09,at_risk
+C0123,Mason Patel,United Kingdom,2023-02-20,lost
+C0124,Emma Brown,India,2024-02-11,new
+C0125,Aditya Garcia,India,2023-12-26,potential
+C0126,Aarav Iyer,United Kingdom,2023-02-28,champion
+C0127,Priya Brown,Australia,2024-03-12,potential
+C0128,Kabir Brown,Canada,2023-12-02,at_risk
+C0129,Aarav Khan,India,2023-11-30,new
+C0130,Lucas Malhotra,United States,2024-03-25,potential
+C0131,Vivaan Brown,United Kingdom,2024-01-29,loyal
+C0132,Aditya Verma,India,2023-10-10,lost
+C0133,Sara Garcia,India,2024-01-05,lost
+C0134,Aditya Reddy,United Kingdom,2024-03-19,at_risk
+C0135,Emma Williams,Singapore,2023-04-21,loyal
+C0136,Charlotte Singh,United Kingdom,2023-08-09,potential
+C0137,James Nair,United States,2023-08-20,champion
+C0138,Riya Iyer,Germany,2024-03-30,lost
+C0139,Kabir Singh,United Kingdom,2023-04-27,loyal
+C0140,Emma Singh,Netherlands,2023-07-31,at_risk
+C0141,Harper Rossi,Singapore,2023-06-23,potential
+C0142,James Patel,India,2024-02-28,at_risk
+C0143,Isha Fischer,United States,2023-08-21,new
+C0144,Ava Muller,United Kingdom,2023-07-24,lost
+C0145,Ava Rossi,India,2023-08-01,loyal
+C0146,Mason Verma,India,2024-01-09,champion
+C0147,Charlotte Malhotra,United States,2023-02-18,loyal
+C0148,William Patel,United States,2023-06-10,lost
+C0149,Vivaan Dubois,India,2023-08-07,lost
+C0150,Amelia Garcia,India,2023-06-10,at_risk
+C0151,Harper Patel,UAE,2023-12-07,new
+C0152,Emma Johnson,India,2023-05-11,new
+C0153,James Nair,India,2023-07-11,loyal
+C0154,Mason Gupta,United States,2024-05-03,lost
+C0155,Ava Smith,Netherlands,2023-03-20,potential
+C0156,Liam Kumar,India,2023-12-18,potential
+C0157,Emma Khan,Germany,2024-04-17,at_risk
+C0158,Mason Nair,France,2023-08-31,champion
+C0159,Isha Verma,India,2023-02-04,loyal
+C0160,William Nair,France,2023-02-16,new
+C0161,Arjun Sharma,United Kingdom,2024-03-01,loyal
+C0162,Aditya Brown,Germany,2023-02-13,new
+C0163,Ananya Rossi,Germany,2023-02-17,loyal
+C0164,Mia Singh,United States,2023-08-10,potential
+C0165,James Dubois,India,2023-02-19,potential
+C0166,Karan Verma,Australia,2024-01-17,potential
+C0167,Ananya Dubois,United Kingdom,2024-01-14,new
+C0168,Aarav Dubois,India,2023-07-10,potential
+C0169,Liam Kumar,India,2024-02-20,at_risk
+C0170,Olivia Rossi,United States,2023-03-08,at_risk
+C0171,Lucas Nair,Germany,2023-10-12,new
+C0172,Charlotte Singh,India,2023-01-31,lost
+C0173,Riya Johnson,United States,2023-10-28,new
+C0174,Olivia Johnson,India,2024-05-04,loyal
+C0175,Vivaan Iyer,Germany,2023-10-15,champion
+C0176,Amelia Nair,India,2023-10-15,potential
+C0177,Vivaan Garcia,Germany,2023-06-18,at_risk
+C0178,Vivaan Verma,United Kingdom,2023-12-10,champion
+C0179,Kabir Singh,UAE,2023-03-04,at_risk
+C0180,Rohan Reddy,India,2023-07-30,at_risk
+C0181,Ananya Verma,United Kingdom,2023-07-01,potential
+C0182,Rohan Khan,India,2024-03-23,new
+C0183,Sara Smith,UAE,2023-12-07,loyal
+C0184,Aditya Chopra,Canada,2024-04-26,champion
+C0185,Aditya Fischer,India,2024-01-20,new
+C0186,Sara Brown,Germany,2023-08-05,at_risk
+C0187,Ethan Patel,Australia,2024-03-20,new
+C0188,Karan Iyer,United States,2024-04-13,potential
+C0189,Emma Iyer,United States,2024-01-05,loyal
+C0190,Diya Verma,India,2023-01-27,lost
+C0191,Diya Khan,India,2024-05-10,new
+C0192,Ava Fischer,Canada,2023-05-28,new
+C0193,Kabir Iyer,UAE,2023-11-04,potential
+C0194,Rohan Garcia,Germany,2023-06-09,at_risk
+C0195,Meera Williams,United Kingdom,2023-06-30,potential
+C0196,James Fischer,United Kingdom,2023-02-23,loyal
+C0197,Lucas Garcia,France,2023-10-23,lost
+C0198,Emma Williams,Canada,2023-09-17,loyal
+C0199,Ethan Gupta,Canada,2023-04-19,lost
+C0200,Charlotte Malhotra,France,2023-03-21,potential
+C0201,Olivia Kumar,Germany,2023-12-03,loyal
+C0202,Noah Khan,India,2023-09-04,at_risk
+C0203,Aarav Kumar,India,2023-04-25,lost
+C0204,Diya Iyer,Canada,2024-03-09,new
+C0205,Isha Khan,United States,2023-02-25,lost
+C0206,Priya Johnson,India,2023-06-29,new
+C0207,Rohan Williams,India,2024-03-08,new
+C0208,Riya Muller,Germany,2023-10-12,lost
+C0209,Karan Khan,India,2023-07-08,loyal
+C0210,Karan Brown,India,2023-02-28,at_risk
+C0211,Sophia Jones,United States,2024-01-26,loyal
+C0212,Ananya Kumar,Germany,2023-05-23,lost
+C0213,Arjun Nair,Germany,2023-10-21,lost
+C0214,Lucas Jones,India,2023-04-26,champion
+C0215,Diya Malhotra,France,2024-02-18,new
+C0216,Rohan Sharma,India,2023-08-08,lost
+C0217,Charlotte Nair,United Kingdom,2024-03-08,loyal
+C0218,Olivia Fischer,France,2023-10-15,at_risk
+C0219,Isha Gupta,Germany,2024-05-13,lost
+C0220,Liam Patel,Canada,2024-01-28,champion
+C0221,Karan Patel,Germany,2024-02-24,new
+C0222,Amelia Nair,United States,2023-11-15,potential
+C0223,Riya Williams,India,2023-11-11,lost
+C0224,Olivia Chopra,United Kingdom,2023-12-12,lost
+C0225,James Garcia,India,2023-11-26,lost
+C0226,James Fischer,India,2023-10-13,at_risk
+C0227,William Williams,Netherlands,2023-01-14,lost
+C0228,Rohan Singh,United Kingdom,2023-11-08,lost
+C0229,Liam Verma,Canada,2024-04-20,potential
+C0230,Aditya Malhotra,Germany,2023-12-03,lost
+C0231,Ava Williams,Australia,2024-02-29,champion
+C0232,Vivaan Sharma,United States,2023-12-22,at_risk
+C0233,Noah Gupta,United States,2023-05-17,loyal
+C0234,William Williams,United States,2023-01-15,loyal
+C0235,Ananya Kumar,India,2023-04-03,champion
+C0236,Priya Rossi,France,2023-05-20,new
+C0237,Priya Sharma,India,2023-12-26,potential
+C0238,Isha Khan,India,2024-01-26,new
+C0239,Karan Gupta,Germany,2023-06-08,champion
+C0240,Priya Verma,India,2024-04-16,potential
+C0241,Arjun Muller,Singapore,2023-06-23,at_risk
+C0242,Kabir Nair,Singapore,2023-06-29,new
+C0243,Riya Rossi,UAE,2023-01-04,potential
+C0244,Riya Verma,United Kingdom,2023-04-03,new
+C0245,Olivia Muller,India,2024-03-21,lost
+C0246,Karan Verma,UAE,2023-03-15,new
+C0247,Karan Muller,United Kingdom,2023-10-17,loyal
+C0248,James Fischer,Singapore,2023-12-03,champion
+C0249,Emma Fischer,Singapore,2023-07-25,lost
+C0250,Isha Muller,Canada,2023-02-05,champion
+C0251,Henry Nair,India,2023-03-14,lost
+C0252,Karan Rossi,United Kingdom,2024-01-15,at_risk
+C0253,Diya Gupta,Canada,2023-11-21,lost
+C0254,Meera Brown,United Kingdom,2024-05-12,new
+C0255,Sara Smith,India,2023-01-16,lost
+C0256,Harper Smith,United States,2023-02-16,potential
+C0257,Karan Rossi,UAE,2024-01-18,new
+C0258,Aarav Smith,Germany,2023-09-29,potential
+C0259,Amelia Garcia,United States,2023-04-21,at_risk
+C0260,Harper Rossi,India,2023-07-12,new
+C0261,Harper Fischer,United States,2023-08-03,lost
+C0262,Sara Brown,Netherlands,2023-08-21,lost
+C0263,Liam Smith,India,2023-06-24,new
+C0264,Harper Patel,United States,2023-03-22,potential
+C0265,Ethan Verma,Canada,2023-07-09,potential
+C0266,Sara Singh,France,2023-06-09,new
+C0267,Emma Johnson,Germany,2024-01-05,loyal
+C0268,Arjun Kumar,Germany,2023-06-16,loyal
+C0269,Sophia Jones,United Kingdom,2024-02-02,potential
+C0270,Arjun Brown,India,2024-04-27,potential
+C0271,Emma Sharma,Australia,2023-10-18,potential
+C0272,Charlotte Johnson,Australia,2023-11-02,loyal
+C0273,Ethan Garcia,Canada,2023-02-13,champion
+C0274,Liam Khan,UAE,2024-03-28,champion
+C0275,Henry Williams,United States,2023-01-27,lost
+C0276,Sophia Malhotra,United States,2023-03-21,potential
+C0277,Rohan Dubois,Australia,2023-03-22,potential
+C0278,Charlotte Nair,Germany,2024-01-22,new
+C0279,Noah Sharma,Germany,2023-11-13,loyal
+C0280,Isha Williams,Australia,2023-01-26,lost
+C0281,Ananya Iyer,Canada,2023-12-12,new
+C0282,Liam Verma,United Kingdom,2023-02-11,loyal
+C0283,Isha Chopra,United Kingdom,2023-05-20,potential
+C0284,Ava Muller,India,2023-08-15,lost
+C0285,Amelia Garcia,United States,2023-12-05,lost
+C0286,Ava Chopra,India,2023-08-06,at_risk
+C0287,Rohan Patel,United Kingdom,2023-09-06,new
+C0288,Ethan Iyer,United States,2023-11-07,loyal
+C0289,James Williams,India,2023-08-15,lost
+C0290,Vivaan Rossi,United States,2023-08-01,loyal
+C0291,Aarav Reddy,India,2023-05-20,lost
+C0292,Meera Nair,India,2023-04-21,new
+C0293,Charlotte Fischer,Australia,2024-01-22,new
+C0294,James Muller,United Kingdom,2023-09-20,at_risk
+C0295,Ava Khan,India,2023-02-28,loyal
+C0296,Charlotte Garcia,United States,2023-06-26,loyal
+C0297,Diya Garcia,France,2023-08-09,loyal
+C0298,Charlotte Patel,India,2023-02-26,loyal
+C0299,Amelia Jones,United States,2023-05-26,new
+C0300,Rohan Jones,India,2023-12-14,potential
+C0301,Charlotte Rossi,India,2023-12-14,champion
+C0302,Noah Dubois,United States,2023-10-31,lost
+C0303,Lucas Jones,United States,2023-09-07,lost
+C0304,Priya Gupta,Germany,2023-09-27,lost
+C0305,James Rossi,France,2023-12-08,lost
+C0306,Charlotte Dubois,Netherlands,2023-06-07,loyal
+C0307,Charlotte Smith,United States,2023-01-24,potential
+C0308,Diya Iyer,United Kingdom,2023-04-23,new
+C0309,Olivia Dubois,Australia,2023-07-22,new
+C0310,Priya Sharma,India,2023-11-03,loyal
+C0311,Olivia Jones,United Kingdom,2023-01-29,lost
+C0312,James Rossi,India,2023-01-04,loyal
+C0313,Harper Iyer,India,2023-04-15,loyal
+C0314,Diya Malhotra,Singapore,2023-06-04,at_risk
+C0315,Noah Kumar,Australia,2024-04-29,at_risk
+C0316,Mason Kumar,Germany,2023-04-19,at_risk
+C0317,Charlotte Johnson,United Kingdom,2024-01-28,loyal
+C0318,Rohan Singh,India,2023-03-12,lost
+C0319,Harper Smith,India,2024-01-27,potential
+C0320,Charlotte Khan,India,2023-05-11,loyal
+C0321,Olivia Reddy,United States,2023-05-29,lost
+C0322,Charlotte Malhotra,France,2023-06-17,lost
+C0323,Diya Garcia,Germany,2023-03-03,lost
+C0324,Aditya Brown,India,2023-01-04,lost
+C0325,Charlotte Jones,Singapore,2023-09-12,new
+C0326,Emma Johnson,France,2024-01-18,at_risk
+C0327,Riya Sharma,United States,2023-08-09,loyal
+C0328,Vivaan Brown,United States,2023-03-31,potential
+C0329,Mia Chopra,United Kingdom,2023-03-08,potential
+C0330,Sara Khan,India,2023-07-14,potential
+C0331,Mason Rossi,United Kingdom,2023-09-30,new
+C0332,Karan Malhotra,France,2023-12-27,at_risk
+C0333,Kabir Johnson,India,2023-04-28,loyal
+C0334,Lucas Dubois,India,2023-09-14,loyal
+C0335,Mia Dubois,India,2023-10-14,new
+C0336,Emma Gupta,India,2024-03-02,champion
+C0337,William Sharma,Canada,2023-12-09,lost
+C0338,Karan Patel,Germany,2024-02-17,at_risk
+C0339,Henry Rossi,United Kingdom,2023-07-01,at_risk
+C0340,Emma Smith,India,2023-02-06,at_risk
+C0341,Harper Reddy,United States,2023-07-23,lost
+C0342,Mason Verma,United Kingdom,2024-03-17,potential
+C0343,Priya Brown,India,2024-01-15,new
+C0344,Meera Patel,United Kingdom,2023-01-22,at_risk
+C0345,Mason Gupta,United Kingdom,2023-08-12,potential
+C0346,Harper Kumar,United States,2023-01-10,lost
+C0347,Charlotte Reddy,Germany,2023-08-24,new
+C0348,Priya Chopra,India,2024-04-16,new
+C0349,Noah Kumar,United Kingdom,2023-02-09,lost
+C0350,Diya Reddy,United States,2024-03-17,lost
+C0351,Ava Nair,United States,2023-06-10,new
+C0352,Mason Smith,Canada,2023-10-22,lost
+C0353,Amelia Singh,Germany,2023-08-08,new
+C0354,Mason Williams,India,2023-10-21,new
+C0355,Henry Brown,India,2023-07-27,new
+C0356,Arjun Malhotra,Germany,2023-12-30,new
+C0357,Liam Reddy,India,2023-11-24,loyal
+C0358,Mia Malhotra,United States,2023-08-02,lost
+C0359,Emma Williams,Singapore,2023-05-29,lost
+C0360,Mason Khan,United States,2023-02-28,champion
+C0361,Lucas Jones,United Kingdom,2023-07-27,lost
+C0362,Emma Williams,Germany,2023-01-11,loyal
+C0363,Noah Garcia,United Kingdom,2024-05-09,potential
+C0364,Karan Nair,United States,2023-06-16,new
+C0365,Aditya Gupta,Singapore,2023-03-29,loyal
+C0366,Riya Brown,United Kingdom,2024-02-15,lost
+C0367,Ethan Gupta,Singapore,2024-04-30,lost
+C0368,Lucas Johnson,UAE,2023-11-13,at_risk
+C0369,Aditya Rossi,India,2023-08-24,champion
+C0370,Ava Garcia,India,2024-03-01,potential
+C0371,Priya Kumar,India,2023-12-20,new
+C0372,Ava Verma,India,2024-04-15,lost
+C0373,James Rossi,India,2023-07-05,new
+C0374,Ethan Iyer,Germany,2023-02-15,potential
+C0375,Lucas Sharma,India,2023-08-12,new
+C0376,Sara Iyer,United Kingdom,2024-03-08,at_risk
+C0377,Ethan Singh,Canada,2023-02-24,new
+C0378,Aarav Muller,India,2023-05-05,loyal
+C0379,Olivia Dubois,Australia,2023-08-12,new
+C0380,Sara Rossi,India,2023-10-29,at_risk
+C0381,Priya Nair,India,2023-07-25,lost
+C0382,Harper Chopra,Germany,2023-09-26,potential
+C0383,Karan Brown,United States,2023-02-10,new
+C0384,Mia Brown,Canada,2023-07-22,lost
+C0385,Liam Rossi,France,2024-03-21,loyal
+C0386,Mia Sharma,Australia,2023-06-08,lost
+C0387,Ethan Garcia,India,2024-01-17,new
+C0388,Charlotte Fischer,India,2023-06-23,champion
+C0389,Harper Dubois,France,2023-04-24,potential
+C0390,Amelia Smith,Australia,2023-06-20,new
+C0391,Arjun Kumar,Netherlands,2024-02-03,champion
+C0392,Meera Gupta,United Kingdom,2023-03-28,at_risk
+C0393,Diya Nair,United Kingdom,2023-02-09,potential
+C0394,Aarav Dubois,France,2023-09-19,new
+C0395,Kabir Iyer,United Kingdom,2023-11-21,champion
+C0396,Charlotte Sharma,UAE,2023-02-28,lost
+C0397,Aditya Malhotra,Canada,2023-09-29,lost
+C0398,Ava Gupta,United Kingdom,2023-09-19,lost
+C0399,Sara Kumar,France,2023-04-10,new
+C0400,Ananya Verma,France,2024-04-08,loyal
+C0401,Liam Dubois,India,2024-02-02,new
+C0402,Noah Johnson,UAE,2023-06-28,champion
+C0403,Mason Garcia,United States,2023-06-29,champion
+C0404,Noah Dubois,Australia,2024-01-08,potential
+C0405,Liam Rossi,United Kingdom,2024-05-05,at_risk
+C0406,Liam Khan,Canada,2024-02-24,new
+C0407,Mia Sharma,United Kingdom,2023-11-27,new
+C0408,Amelia Nair,India,2024-02-22,potential
+C0409,Vivaan Muller,UAE,2023-03-17,potential
+C0410,Emma Malhotra,India,2023-05-01,lost
+C0411,Aditya Malhotra,United Kingdom,2023-02-22,potential
+C0412,Vivaan Sharma,Singapore,2023-03-16,at_risk
+C0413,Emma Johnson,Singapore,2023-05-12,loyal
+C0414,Arjun Sharma,United States,2023-04-12,new
+C0415,Diya Gupta,Germany,2023-03-30,new
+C0416,Emma Gupta,United Kingdom,2023-11-05,loyal
+C0417,Mia Fischer,India,2023-03-20,loyal
+C0418,Isha Iyer,United Kingdom,2024-01-25,new
+C0419,James Kumar,Germany,2024-01-24,new
+C0420,Lucas Williams,France,2023-12-02,potential
+C0421,Henry Muller,Australia,2023-02-08,lost
+C0422,Ananya Chopra,Australia,2023-04-01,loyal
+C0423,Diya Patel,India,2024-05-02,potential
+C0424,Henry Smith,United States,2024-01-31,lost
+C0425,Olivia Patel,India,2023-11-18,potential
+C0426,Kabir Sharma,United States,2023-09-10,new
+C0427,Meera Jones,United Kingdom,2023-08-26,potential
+C0428,Kabir Fischer,Canada,2024-01-22,potential
+C0429,Meera Dubois,United Kingdom,2023-10-16,lost
+C0430,Ethan Johnson,India,2024-01-25,potential
+C0431,Aditya Iyer,India,2023-10-24,lost
+C0432,Lucas Malhotra,France,2023-08-18,loyal
+C0433,Emma Patel,United States,2023-12-15,loyal
+C0434,Lucas Jones,India,2024-04-18,champion
+C0435,Sara Fischer,India,2024-03-27,new
+C0436,Diya Patel,Germany,2023-10-17,potential
+C0437,Harper Iyer,India,2023-11-26,lost
+C0438,Harper Verma,Australia,2023-11-22,at_risk
+C0439,Sophia Nair,Germany,2023-11-16,lost
+C0440,Ava Fischer,India,2023-06-15,loyal
+C0441,Sophia Khan,India,2024-03-18,lost
+C0442,Rohan Malhotra,Netherlands,2024-05-12,new
+C0443,Noah Sharma,United Kingdom,2023-11-18,new
+C0444,Sara Rossi,United Kingdom,2023-06-11,lost
+C0445,Arjun Singh,Australia,2023-03-19,new
+C0446,Isha Rossi,Singapore,2023-08-14,new
+C0447,Sophia Malhotra,Netherlands,2023-02-04,loyal
+C0448,Karan Kumar,France,2023-08-29,champion
+C0449,Lucas Gupta,United Kingdom,2023-08-15,lost
+C0450,Ava Smith,India,2023-11-20,new
+C0451,Amelia Reddy,France,2023-06-05,new
+C0452,William Williams,United States,2024-02-12,at_risk
+C0453,Diya Nair,United Kingdom,2023-05-21,loyal
+C0454,Henry Singh,UAE,2023-10-30,loyal
+C0455,Mason Rossi,India,2023-01-29,new
+C0456,Arjun Iyer,United States,2023-06-30,potential
+C0457,Liam Garcia,India,2023-09-17,loyal
+C0458,Sara Brown,United Kingdom,2023-02-07,at_risk
+C0459,Arjun Khan,India,2023-06-08,champion
+C0460,Liam Kumar,India,2023-08-25,at_risk
+C0461,Emma Kumar,India,2023-08-20,potential
+C0462,Kabir Chopra,Germany,2023-01-20,new
+C0463,Charlotte Dubois,France,2023-01-30,potential
+C0464,Noah Sharma,United States,2023-07-08,at_risk
+C0465,Mia Garcia,Singapore,2024-03-01,champion
+C0466,Ananya Singh,United Kingdom,2023-05-27,champion
+C0467,James Muller,India,2023-02-09,potential
+C0468,Harper Williams,Canada,2023-11-27,at_risk
+C0469,Noah Williams,India,2024-03-18,new
+C0470,Karan Chopra,Singapore,2024-05-15,potential
+C0471,Lucas Williams,India,2024-03-13,new
+C0472,Priya Sharma,Singapore,2023-02-16,lost
+C0473,Rohan Johnson,India,2023-11-11,new
+C0474,Aditya Brown,Canada,2023-11-01,champion
+C0475,Amelia Rossi,United States,2023-09-17,at_risk
+C0476,Mia Nair,Netherlands,2023-07-16,loyal
+C0477,Henry Brown,India,2023-08-25,loyal
+C0478,Lucas Singh,United States,2023-10-25,lost
+C0479,William Singh,Singapore,2023-10-11,loyal
+C0480,Mason Sharma,United States,2024-05-03,at_risk
+C0481,Aditya Jones,United States,2024-02-10,new
+C0482,Emma Dubois,Germany,2024-01-14,new
+C0483,Lucas Brown,United Kingdom,2024-04-03,at_risk
+C0484,Olivia Fischer,United States,2023-01-22,champion
+C0485,Kabir Muller,United States,2023-08-19,potential
+C0486,Mia Nair,UAE,2024-04-10,at_risk
+C0487,Rohan Muller,India,2024-02-19,loyal
+C0488,Ava Nair,India,2023-10-20,potential
+C0489,Noah Muller,Singapore,2023-11-30,champion
+C0490,Lucas Kumar,Canada,2023-04-07,champion
+C0491,Liam Jones,United Kingdom,2023-06-14,potential
+C0492,Liam Brown,United States,2023-11-06,loyal
+C0493,Isha Johnson,India,2023-09-01,at_risk
+C0494,Noah Patel,India,2023-09-14,new
+C0495,Amelia Nair,United Kingdom,2023-03-19,lost
+C0496,Henry Smith,United Kingdom,2024-05-05,loyal
+C0497,James Johnson,United States,2023-02-01,loyal
+C0498,Amelia Singh,India,2023-08-19,loyal
+C0499,Liam Iyer,Netherlands,2023-02-22,new
+C0500,Henry Reddy,Netherlands,2024-02-20,new
+C0501,Diya Jones,Germany,2024-04-05,champion
+C0502,Isha Johnson,United States,2024-03-04,lost
+C0503,Olivia Brown,United Kingdom,2023-06-25,champion
+C0504,Sophia Smith,Australia,2024-01-01,at_risk
+C0505,Olivia Sharma,Germany,2023-02-13,new
+C0506,Lucas Nair,India,2023-09-16,lost
+C0507,Riya Williams,UAE,2023-11-27,new
+C0508,Vivaan Verma,Australia,2023-03-30,lost
+C0509,Priya Jones,Singapore,2023-01-21,potential
+C0510,Lucas Gupta,France,2023-05-07,lost
+C0511,William Singh,United States,2023-12-29,loyal
+C0512,Isha Sharma,United Kingdom,2023-08-13,lost
+C0513,Kabir Jones,UAE,2023-08-13,at_risk
+C0514,Mia Singh,Canada,2023-09-26,lost
+C0515,Mason Garcia,India,2023-09-25,at_risk
+C0516,Ananya Verma,India,2023-11-09,new
+C0517,Liam Singh,United Kingdom,2023-03-23,at_risk
+C0518,Isha Khan,Australia,2023-07-06,new
+C0519,Ethan Singh,Netherlands,2023-07-10,loyal
+C0520,Aditya Iyer,India,2024-04-14,champion
+C0521,William Fischer,United States,2023-05-25,loyal
+C0522,Vivaan Gupta,United Kingdom,2023-07-18,loyal
+C0523,Riya Iyer,Singapore,2023-07-29,lost
+C0524,Olivia Khan,Canada,2024-02-01,loyal
+C0525,Emma Patel,Australia,2023-06-23,lost
+C0526,Priya Rossi,United Kingdom,2023-12-14,potential
+C0527,Diya Chopra,United Kingdom,2023-11-03,loyal
+C0528,Harper Chopra,India,2023-01-27,new
+C0529,Emma Reddy,India,2024-02-09,new
+C0530,Ethan Kumar,Canada,2023-11-20,at_risk
+C0531,Meera Kumar,Australia,2023-11-28,at_risk
+C0532,Olivia Iyer,Netherlands,2023-06-21,new
+C0533,Ava Jones,Netherlands,2023-02-03,loyal
+C0534,Kabir Chopra,United States,2023-06-18,lost
+C0535,Vivaan Chopra,France,2023-02-18,lost
+C0536,Amelia Patel,Singapore,2023-10-13,new
+C0537,Henry Johnson,Canada,2023-12-14,loyal
+C0538,William Johnson,India,2023-07-17,new
+C0539,Liam Fischer,United Kingdom,2023-05-26,champion
+C0540,Aditya Smith,India,2023-05-10,champion
+C0541,Emma Smith,Singapore,2024-01-06,potential
+C0542,Priya Khan,United States,2024-03-12,at_risk
+C0543,Ananya Sharma,India,2023-12-03,lost
+C0544,Ava Kumar,Germany,2024-05-08,new
+C0545,Lucas Chopra,United States,2024-04-09,new
+C0546,Mia Jones,United Kingdom,2023-11-05,potential
+C0547,Vivaan Brown,India,2024-03-23,potential
+C0548,Olivia Jones,Germany,2023-03-18,potential
+C0549,Lucas Kumar,United States,2023-06-20,lost
+C0550,Aditya Fischer,France,2023-02-11,champion
+C0551,Emma Williams,United States,2023-10-26,lost
+C0552,Harper Malhotra,Canada,2023-12-06,at_risk
+C0553,Kabir Fischer,United States,2023-03-14,potential
+C0554,Harper Johnson,United States,2024-04-14,new
+C0555,Ava Patel,Canada,2023-06-29,at_risk
+C0556,Priya Brown,United Kingdom,2023-06-08,lost
+C0557,William Gupta,India,2024-05-10,lost
+C0558,Meera Williams,India,2023-12-02,potential
+C0559,Arjun Gupta,France,2023-12-24,potential
+C0560,Aditya Verma,United States,2023-12-06,at_risk
+C0561,Ananya Jones,Germany,2023-07-20,lost
+C0562,Diya Iyer,India,2023-03-08,loyal
+C0563,Meera Jones,India,2023-11-01,new
+C0564,Mason Patel,India,2023-12-29,new
+C0565,Mason Jones,United Kingdom,2024-04-25,new
+C0566,Lucas Dubois,United States,2023-02-13,loyal
+C0567,Liam Reddy,United Kingdom,2023-06-08,new
+C0568,Priya Singh,United Kingdom,2023-10-14,lost
+C0569,Mason Khan,UAE,2023-07-12,loyal
+C0570,Diya Verma,United Kingdom,2023-11-26,loyal
+C0571,Karan Rossi,United States,2024-02-10,lost
+C0572,Amelia Garcia,Australia,2023-06-18,loyal
+C0573,Diya Williams,United Kingdom,2024-02-21,lost
+C0574,Aarav Khan,United States,2023-03-07,at_risk
+C0575,Emma Fischer,Canada,2023-12-10,loyal
+C0576,Arjun Iyer,Singapore,2023-12-26,lost
+C0577,Kabir Sharma,India,2024-02-29,potential
+C0578,Henry Fischer,UAE,2024-04-29,at_risk
+C0579,Arjun Williams,United States,2024-01-14,potential
+C0580,Kabir Verma,India,2023-12-17,at_risk
+C0581,Henry Smith,United Kingdom,2024-04-12,loyal
+C0582,Mia Reddy,Netherlands,2023-09-27,potential
+C0583,William Kumar,United States,2023-02-17,lost
+C0584,Meera Williams,United Kingdom,2023-11-27,potential
+C0585,Ananya Iyer,Germany,2023-12-10,new
+C0586,Ava Malhotra,India,2023-08-05,potential
+C0587,Arjun Singh,India,2023-09-18,new
+C0588,Aditya Singh,India,2023-07-05,loyal
+C0589,Sophia Rossi,India,2023-01-10,lost
+C0590,Noah Garcia,India,2023-07-05,at_risk
+C0591,Charlotte Patel,India,2023-06-08,loyal
+C0592,Sara Smith,Germany,2023-04-03,champion
+C0593,Noah Rossi,India,2024-05-01,loyal
+C0594,Lucas Singh,United Kingdom,2023-04-20,at_risk
+C0595,Olivia Fischer,Canada,2023-06-24,potential
+C0596,Ethan Nair,United Kingdom,2024-04-30,lost
+C0597,Vivaan Kumar,Germany,2024-01-28,potential
+C0598,Aditya Garcia,India,2023-09-06,loyal
+C0599,Liam Garcia,India,2023-04-09,new
+C0600,Isha Dubois,India,2023-04-26,new
+C0601,Sara Reddy,India,2023-03-12,loyal
+C0602,Arjun Sharma,India,2023-03-21,loyal
+C0603,Charlotte Nair,India,2023-02-09,champion
+C0604,Mason Rossi,India,2023-06-01,new
+C0605,Vivaan Johnson,India,2024-03-08,new
+C0606,Rohan Muller,United Kingdom,2024-02-08,at_risk
+C0607,Diya Singh,India,2023-02-21,lost
+C0608,William Kumar,United Kingdom,2023-09-17,lost
+C0609,Henry Verma,United States,2024-01-30,at_risk
+C0610,James Williams,Germany,2023-10-04,lost
+C0611,Priya Gupta,India,2024-03-03,loyal
+C0612,Meera Jones,Australia,2024-01-14,loyal
+C0613,Mason Singh,United States,2024-03-28,potential
+C0614,Isha Sharma,India,2023-09-27,champion
+C0615,William Chopra,Canada,2023-01-20,at_risk
+C0616,Harper Brown,UAE,2023-12-05,lost
+C0617,Lucas Smith,India,2023-06-22,champion
+C0618,Olivia Nair,India,2024-03-24,loyal
+C0619,Aarav Nair,Australia,2024-01-28,at_risk
+C0620,Ava Khan,France,2023-11-13,lost
+C0621,Emma Patel,India,2023-03-09,potential
+C0622,Mason Patel,India,2023-11-02,at_risk
+C0623,William Gupta,United Kingdom,2023-07-12,champion
+C0624,Mia Jones,United States,2023-03-20,loyal
+C0625,Rohan Williams,United States,2023-03-25,lost
+C0626,Ava Singh,United Kingdom,2023-04-03,lost
+C0627,Mia Brown,United Kingdom,2024-03-01,champion
+C0628,Mason Nair,France,2023-12-21,lost
+C0629,Riya Dubois,India,2024-01-30,new
+C0630,James Chopra,India,2023-11-16,lost
+C0631,Rohan Gupta,France,2024-02-19,at_risk
+C0632,Sara Khan,Canada,2024-04-07,at_risk
+C0633,Liam Rossi,United States,2023-03-26,at_risk
+C0634,Noah Reddy,United States,2024-01-05,new
+C0635,Liam Sharma,India,2023-08-13,loyal
+C0636,Olivia Jones,United Kingdom,2023-01-23,champion
+C0637,Arjun Iyer,United States,2023-07-30,potential
+C0638,Kabir Fischer,India,2023-07-06,new
+C0639,Mia Gupta,India,2023-12-13,loyal
+C0640,Mason Nair,United Kingdom,2024-01-04,new
+C0641,Mia Muller,India,2023-05-02,lost
+C0642,Noah Nair,United Kingdom,2024-05-11,loyal
+C0643,Henry Nair,India,2023-08-16,new
+C0644,Ethan Kumar,United Kingdom,2023-11-09,potential
+C0645,Meera Garcia,India,2023-05-26,lost
+C0646,Sara Johnson,Canada,2024-01-21,loyal
+C0647,Lucas Brown,United States,2024-01-19,new
+C0648,Kabir Dubois,Germany,2024-02-06,lost
+C0649,Emma Rossi,Australia,2023-08-18,lost
+C0650,Vivaan Garcia,United States,2023-04-30,new
+C0651,Amelia Singh,India,2023-10-01,at_risk
+C0652,Lucas Dubois,United States,2023-05-03,new
+C0653,Ethan Fischer,United States,2023-06-08,lost
+C0654,Harper Malhotra,France,2024-05-09,at_risk
+C0655,Riya Singh,United Kingdom,2024-02-19,champion
+C0656,Vivaan Gupta,India,2024-02-06,lost
+C0657,Rohan Iyer,India,2023-08-29,new
+C0658,Noah Patel,United Kingdom,2024-04-07,new
+C0659,Sara Kumar,Germany,2024-03-03,loyal
+C0660,Isha Reddy,United States,2023-04-10,new
+C0661,Meera Kumar,United Kingdom,2023-07-08,potential
+C0662,Aarav Gupta,Netherlands,2023-12-14,new
+C0663,Ava Malhotra,United States,2024-04-29,loyal
+C0664,Riya Khan,India,2023-10-20,new
+C0665,Mia Williams,India,2023-08-14,lost
+C0666,Noah Chopra,India,2023-08-25,champion
+C0667,Lucas Dubois,India,2024-01-29,lost
+C0668,William Khan,India,2023-05-25,potential
+C0669,Sara Garcia,India,2024-02-03,lost
+C0670,Sara Fischer,India,2023-07-15,new
+C0671,Sara Nair,India,2023-09-15,at_risk
+C0672,Ethan Garcia,Canada,2023-09-28,new
+C0673,William Singh,India,2023-08-03,lost
+C0674,Sara Nair,United States,2024-05-09,potential
+C0675,Vivaan Chopra,United Kingdom,2023-03-24,potential
+C0676,Aditya Brown,Netherlands,2024-02-23,new
+C0677,William Fischer,India,2023-04-13,lost
+C0678,Meera Jones,United Kingdom,2024-02-15,new
+C0679,Emma Khan,Singapore,2023-11-06,new
+C0680,Ava Patel,Canada,2023-03-12,potential
+C0681,Henry Malhotra,Australia,2024-03-22,lost
+C0682,Lucas Patel,India,2023-05-09,loyal
+C0683,Mason Smith,India,2023-01-27,at_risk
+C0684,Lucas Jones,Germany,2023-11-25,champion
+C0685,Karan Sharma,UAE,2023-09-04,potential
+C0686,Vivaan Garcia,United States,2024-03-23,potential
+C0687,Harper Verma,United States,2023-07-10,potential
+C0688,Olivia Muller,India,2023-10-11,new
+C0689,Sophia Rossi,France,2024-04-23,potential
+C0690,Riya Brown,India,2023-02-22,potential
+C0691,Rohan Rossi,United Kingdom,2023-12-31,loyal
+C0692,Kabir Fischer,United Kingdom,2024-03-09,potential
+C0693,Harper Smith,United States,2023-09-22,loyal
+C0694,Ananya Smith,India,2024-03-11,champion
+C0695,Aditya Chopra,India,2023-03-05,new
+C0696,Sara Dubois,United States,2023-05-26,new
+C0697,Diya Fischer,India,2023-02-12,new
+C0698,Emma Singh,United States,2024-01-26,at_risk
+C0699,Meera Iyer,India,2023-03-24,potential
+C0700,Riya Brown,United States,2023-05-20,lost
+C0701,Mason Malhotra,United States,2023-08-19,at_risk
+C0702,Liam Kumar,India,2024-04-08,at_risk
+C0703,Liam Fischer,United Kingdom,2023-09-20,champion
+C0704,Aarav Kumar,India,2023-03-17,potential
+C0705,Karan Jones,India,2024-03-01,potential
+C0706,Charlotte Nair,Netherlands,2023-08-12,potential
+C0707,Ananya Khan,United Kingdom,2023-02-16,at_risk
+C0708,Mason Muller,Australia,2024-04-29,at_risk
+C0709,Kabir Jones,India,2024-04-11,new
+C0710,William Rossi,Germany,2023-04-24,new
+C0711,Lucas Williams,France,2024-02-23,lost
+C0712,Mason Jones,United States,2023-08-19,new
+C0713,James Dubois,United Kingdom,2024-03-28,lost
+C0714,Sara Singh,United Kingdom,2023-06-28,champion
+C0715,Isha Brown,United Kingdom,2024-04-21,loyal
+C0716,Ethan Iyer,UAE,2023-01-14,champion
+C0717,Sophia Iyer,Australia,2023-08-01,new
+C0718,Olivia Jones,Singapore,2023-01-28,lost
+C0719,Aarav Fischer,India,2023-07-22,loyal
+C0720,Ethan Williams,France,2023-09-15,lost
+C0721,Aarav Iyer,UAE,2023-07-11,champion
+C0722,Sara Fischer,India,2023-05-01,lost
+C0723,Henry Verma,India,2023-07-17,potential
+C0724,Meera Chopra,France,2023-02-11,loyal
+C0725,Amelia Singh,United States,2023-07-11,at_risk
+C0726,Arjun Jones,Canada,2023-04-25,potential
+C0727,Henry Brown,India,2023-01-15,potential
+C0728,Diya Muller,Australia,2023-06-13,potential
+C0729,Emma Malhotra,India,2024-04-21,lost
+C0730,James Chopra,India,2023-02-20,at_risk
+C0731,Liam Fischer,India,2024-03-05,potential
+C0732,Henry Fischer,Australia,2024-01-01,new
+C0733,Charlotte Gupta,Germany,2023-11-29,new
+C0734,William Patel,United States,2023-06-21,potential
+C0735,Karan Malhotra,United Kingdom,2024-02-10,potential
+C0736,William Verma,Canada,2023-03-16,loyal
+C0737,Olivia Kumar,United Kingdom,2023-03-12,loyal
+C0738,Vivaan Iyer,Australia,2023-01-20,new
+C0739,Sophia Gupta,United Kingdom,2023-05-27,loyal
+C0740,Aditya Jones,United Kingdom,2024-04-14,at_risk
+C0741,Noah Rossi,United Kingdom,2024-02-29,new
+C0742,Ananya Johnson,United Kingdom,2023-08-30,loyal
+C0743,Riya Nair,France,2023-12-23,at_risk
+C0744,Karan Muller,United States,2024-03-01,potential
+C0745,Rohan Reddy,India,2023-03-13,lost
+C0746,Meera Williams,Canada,2024-01-24,at_risk
+C0747,Arjun Smith,United Kingdom,2023-12-28,lost
+C0748,Liam Singh,United States,2023-08-29,at_risk
+C0749,Harper Jones,UAE,2023-08-18,champion
+C0750,Amelia Garcia,United States,2023-11-12,new
+C0751,Harper Patel,India,2023-01-03,lost
+C0752,Mason Khan,UAE,2024-04-08,new
+C0753,Riya Brown,United States,2023-02-10,lost
+C0754,Sara Fischer,United Kingdom,2023-01-10,lost
+C0755,Amelia Fischer,India,2023-05-12,loyal
+C0756,Ethan Nair,Australia,2023-04-21,loyal
+C0757,Sophia Khan,United States,2024-03-03,new
+C0758,Harper Dubois,United States,2023-03-18,potential
+C0759,Aarav Williams,Canada,2023-10-08,lost
+C0760,Priya Patel,Australia,2024-04-26,lost
+C0761,Mason Muller,India,2024-01-08,potential
+C0762,Charlotte Fischer,United Kingdom,2023-11-08,loyal
+C0763,Liam Iyer,India,2023-09-28,new
+C0764,Ethan Malhotra,France,2023-08-05,potential
+C0765,Sophia Patel,India,2023-02-26,lost
+C0766,Charlotte Brown,United States,2024-02-02,potential
+C0767,Mia Sharma,France,2023-05-28,new
+C0768,Diya Nair,Canada,2023-05-02,loyal
+C0769,Noah Chopra,United Kingdom,2023-06-04,new
+C0770,Emma Malhotra,Australia,2023-03-04,at_risk
+C0771,Aditya Malhotra,India,2023-01-25,at_risk
+C0772,Arjun Kumar,Canada,2023-05-03,loyal
+C0773,Meera Jones,India,2023-08-03,new
+C0774,William Rossi,United Kingdom,2023-11-24,lost
+C0775,Isha Gupta,Australia,2024-02-11,loyal
+C0776,Vivaan Verma,India,2023-11-15,loyal
+C0777,Olivia Singh,India,2023-08-23,champion
+C0778,Isha Patel,France,2023-02-02,new
+C0779,Emma Nair,France,2023-02-26,new
+C0780,Riya Dubois,Germany,2024-03-04,at_risk
+C0781,Mason Muller,Germany,2024-04-08,loyal
+C0782,Charlotte Nair,United States,2023-09-13,potential
+C0783,Ava Iyer,India,2023-11-02,at_risk
+C0784,Amelia Gupta,United Kingdom,2023-10-02,at_risk
+C0785,Karan Rossi,India,2023-01-09,lost
+C0786,William Patel,UAE,2023-11-20,loyal
+C0787,Arjun Singh,United States,2023-09-21,new
+C0788,Diya Rossi,United Kingdom,2023-10-22,potential
+C0789,Liam Verma,United Kingdom,2023-05-04,potential
+C0790,Lucas Muller,Singapore,2024-01-03,new
+C0791,James Kumar,India,2023-03-15,new
+C0792,Mason Brown,United States,2023-05-30,lost
+C0793,Sara Muller,United States,2023-08-08,loyal
+C0794,Isha Fischer,United States,2023-01-01,loyal
+C0795,Sophia Nair,India,2023-11-11,new
+C0796,Karan Malhotra,Canada,2023-06-30,at_risk
+C0797,Sophia Verma,UAE,2023-05-04,potential
+C0798,Ethan Williams,United States,2023-10-20,champion
+C0799,James Patel,Germany,2023-08-02,loyal
+C0800,Sara Kumar,UAE,2023-04-06,lost

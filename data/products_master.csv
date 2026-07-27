@@ -1,0 +1,121 @@
+ProductID,ProductName,Category,UnitPrice
+P0001,Wireless Earbuds,Electronics,4254.73
+P0002,Wireless Earbuds Pro,Electronics,1245.19
+P0003,Bluetooth Speaker,Electronics,5868.2
+P0004,Bluetooth Speaker Pro,Electronics,1151.93
+P0005,Smart Watch,Electronics,3535.51
+P0006,Smart Watch Pro,Electronics,3438.1
+P0007,Power Bank,Electronics,5939.32
+P0008,Power Bank Pro,Electronics,3681.59
+P0009,USB-C Cable,Electronics,2830.36
+P0010,USB-C Cable Pro,Electronics,3244.7
+P0011,Laptop Stand,Electronics,4105.49
+P0012,Laptop Stand Pro,Electronics,5901.4
+P0013,Webcam,Electronics,2118.98
+P0014,Webcam Pro,Electronics,884.46
+P0015,Mechanical Keyboard,Electronics,4900.3
+P0016,Mechanical Keyboard Pro,Electronics,2592.97
+P0017,Wireless Mouse,Electronics,4611.29
+P0018,Wireless Mouse Pro,Electronics,4066.94
+P0019,Phone Case,Electronics,4811.81
+P0020,Phone Case Pro,Electronics,4622.97
+P0021,Non-stick Pan,Home & Kitchen,1364.06
+P0022,Non-stick Pan Pro,Home & Kitchen,441.87
+P0023,Ceramic Mug Set,Home & Kitchen,2047.24
+P0024,Ceramic Mug Set Pro,Home & Kitchen,2903.23
+P0025,LED Desk Lamp,Home & Kitchen,860.29
+P0026,LED Desk Lamp Pro,Home & Kitchen,2793.26
+P0027,Storage Boxes,Home & Kitchen,1786.79
+P0028,Storage Boxes Pro,Home & Kitchen,2525.25
+P0029,Cushion Cover Set,Home & Kitchen,2321.55
+P0030,Cushion Cover Set Pro,Home & Kitchen,2896.79
+P0031,Air Fryer,Home & Kitchen,501.92
+P0032,Air Fryer Pro,Home & Kitchen,2783.81
+P0033,Electric Kettle,Home & Kitchen,1764.57
+P0034,Electric Kettle Pro,Home & Kitchen,1239.02
+P0035,Knife Set,Home & Kitchen,440.18
+P0036,Knife Set Pro,Home & Kitchen,938.3
+P0037,Wall Clock,Home & Kitchen,434.1
+P0038,Wall Clock Pro,Home & Kitchen,3286.79
+P0039,Bedsheet Set,Home & Kitchen,1949.23
+P0040,Bedsheet Set Pro,Home & Kitchen,3465.19
+P0041,Cotton T-Shirt,Fashion,1811.88
+P0042,Cotton T-Shirt Pro,Fashion,1058.62
+P0043,Denim Jacket,Fashion,2358.56
+P0044,Denim Jacket Pro,Fashion,896.87
+P0045,Running Shoes,Fashion,1328.13
+P0046,Running Shoes Pro,Fashion,2430.19
+P0047,Leather Wallet,Fashion,2651.08
+P0048,Leather Wallet Pro,Fashion,1263.0
+P0049,Sunglasses,Fashion,723.64
+P0050,Sunglasses Pro,Fashion,1356.85
+P0051,Formal Shirt,Fashion,2712.66
+P0052,Formal Shirt Pro,Fashion,2332.6
+P0053,Backpack,Fashion,2726.06
+P0054,Backpack Pro,Fashion,1405.28
+P0055,Sports Cap,Fashion,2931.68
+P0056,Sports Cap Pro,Fashion,1690.13
+P0057,Analog Watch,Fashion,1693.56
+P0058,Analog Watch Pro,Fashion,2803.21
+P0059,Winter Hoodie,Fashion,1750.12
+P0060,Winter Hoodie Pro,Fashion,2482.99
+P0061,Face Wash,Beauty & Personal Care,1131.56
+P0062,Face Wash Pro,Beauty & Personal Care,256.55
+P0063,Moisturizer,Beauty & Personal Care,963.31
+P0064,Moisturizer Pro,Beauty & Personal Care,1260.16
+P0065,Shampoo,Beauty & Personal Care,886.39
+P0066,Shampoo Pro,Beauty & Personal Care,583.64
+P0067,Perfume,Beauty & Personal Care,258.09
+P0068,Perfume Pro,Beauty & Personal Care,1042.24
+P0069,Lipstick,Beauty & Personal Care,563.77
+P0070,Lipstick Pro,Beauty & Personal Care,963.54
+P0071,Sunscreen,Beauty & Personal Care,725.26
+P0072,Sunscreen Pro,Beauty & Personal Care,1081.18
+P0073,Hair Dryer,Beauty & Personal Care,624.59
+P0074,Hair Dryer Pro,Beauty & Personal Care,207.18
+P0075,Trimmer,Beauty & Personal Care,1324.55
+P0076,Trimmer Pro,Beauty & Personal Care,625.96
+P0077,Face Mask Pack,Beauty & Personal Care,1497.5
+P0078,Face Mask Pack Pro,Beauty & Personal Care,520.65
+P0079,Body Lotion,Beauty & Personal Care,1473.04
+P0080,Body Lotion Pro,Beauty & Personal Care,1429.67
+P0081,Notebook Set,Books & Stationery,134.03
+P0082,Notebook Set Pro,Books & Stationery,539.01
+P0083,Fiction Novel,Books & Stationery,341.58
+P0084,Fiction Novel Pro,Books & Stationery,656.79
+P0085,Sketch Pens,Books & Stationery,569.18
+P0086,Sketch Pens Pro,Books & Stationery,766.01
+P0087,Desk Organizer,Books & Stationery,182.8
+P0088,Desk Organizer Pro,Books & Stationery,517.45
+P0089,Planner Diary,Books & Stationery,642.54
+P0090,Planner Diary Pro,Books & Stationery,105.06
+P0091,Sticky Notes,Books & Stationery,128.41
+P0092,Sticky Notes Pro,Books & Stationery,640.53
+P0093,Fountain Pen,Books & Stationery,343.76
+P0094,Fountain Pen Pro,Books & Stationery,355.66
+P0095,Bookmark Set,Books & Stationery,488.42
+P0096,Bookmark Set Pro,Books & Stationery,515.67
+P0097,Art Supplies Kit,Books & Stationery,568.92
+P0098,Art Supplies Kit Pro,Books & Stationery,763.15
+P0099,Puzzle Book,Books & Stationery,347.85
+P0100,Puzzle Book Pro,Books & Stationery,629.42
+P0101,Yoga Mat,Sports & Fitness,1520.02
+P0102,Yoga Mat Pro,Sports & Fitness,1417.76
+P0103,Dumbbell Set,Sports & Fitness,1115.48
+P0104,Dumbbell Set Pro,Sports & Fitness,1693.99
+P0105,Resistance Bands,Sports & Fitness,774.11
+P0106,Resistance Bands Pro,Sports & Fitness,460.93
+P0107,Water Bottle,Sports & Fitness,1892.05
+P0108,Water Bottle Pro,Sports & Fitness,1347.8
+P0109,Skipping Rope,Sports & Fitness,1090.07
+P0110,Skipping Rope Pro,Sports & Fitness,1491.85
+P0111,Cycling Gloves,Sports & Fitness,802.09
+P0112,Cycling Gloves Pro,Sports & Fitness,798.67
+P0113,Gym Bag,Sports & Fitness,1226.43
+P0114,Gym Bag Pro,Sports & Fitness,2491.64
+P0115,Foam Roller,Sports & Fitness,856.83
+P0116,Foam Roller Pro,Sports & Fitness,2307.9
+P0117,Fitness Tracker,Sports & Fitness,1329.76
+P0118,Fitness Tracker Pro,Sports & Fitness,482.07
+P0119,Football,Sports & Fitness,2161.5
+P0120,Football Pro,Sports & Fitness,1239.7
